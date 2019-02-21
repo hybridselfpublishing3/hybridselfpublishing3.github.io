@@ -42,3 +42,6 @@ Der online von (uns Autoren) selbst zensierte Text, mit der Funktion durch die D
 - Beim Herunterladen werden Metadaten (z. B. Datum, Version, Auflage) mit exportiert
 - Änderungen oder Erweiterungen der Texte werden durch gestalterische Hinweise dargestellt
 - Der Leser kann sich Text-Updates herunterladen (kann aber nur online darüber informiert werden)
+
+#### Internet als Zwischenmedium:
+- Da nur online über die HTML Seite ein Zugang zu den zensierten Texten geschafft wird und der gesamte Inhalt erst als Download der Printversion zur Verfügung steht, bildet das Internet nur ein Zwischenmedium. Das Publikationsmedium ist dabei der Drucker bzw. das lokale Endgerät des Lesers
