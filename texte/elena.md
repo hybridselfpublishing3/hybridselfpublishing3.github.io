@@ -1,5 +1,5 @@
 #Titel
 
-* Elena Wiener*
+*Elena Wiener*
 
 Hier steht Text
