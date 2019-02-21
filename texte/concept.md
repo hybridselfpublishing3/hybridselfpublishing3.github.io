@@ -1,6 +1,6 @@
 # Gruppen-Konzept
 
-*Pia
+*Pia*
 
 - Prototyp als Vorlage
 
