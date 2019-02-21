@@ -71,3 +71,7 @@ https://netzpolitik.org/2018/eu-kommission-will-von-plattformen-freiwillige-und-
 ! http://www.zensur.freerk.com/index-de.htm !
 
 Autorschaft
+
+https://de.wikipedia.org/wiki/Contentfilter
+https://de.wikipedia.org/wiki/Upload-Filter
+
