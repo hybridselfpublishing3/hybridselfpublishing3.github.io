@@ -17,3 +17,8 @@
 - Welche Möglichkeiten bieten dabei die jeweiligen Visualisierungsmethoden im Bezug auf die Zugänglichkeit und Verfügbarkeit
 
 
+Warum sollte mann hybride Publikationsmethoden nutzen?
+- Benutzerfreundlichkeit: Dem Leser die Wahl überlassen ob z.B. am Bildschirm oder über gedruckte Version gelesen werden soll
+- Einschränkungen durch schwarze Balken verwenden um sich selber alks Autor zu zensieren (Leseprobe)
+- In der Printversion die Vollwersion anbieten um zu verdeutlichen, dass Internet kein voller öffentlicher Raum ist.
+- Thema Limitierung als Marketingstrategie oder Verdeutlichung, dass es bei Publikationen im Internet durchaus Limitierung 
