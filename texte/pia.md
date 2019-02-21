@@ -1,4 +1,4 @@
-# Internet als öffentlicher Raum
+# Das Internet als Publikationsmedium
 
 ## Untersuchung der gestalterischen Publikationsmethoden von digital/hybrid Publishing sowie den jeweiligen Einfluss auf den veröffentlichten Inhalt im Internet.
 
