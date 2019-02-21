@@ -1,6 +1,6 @@
 # Internet als öffentlicher Raum
 
-## Untersuchung der gestalterischen Publikationsmethoden von digital/hybrid Publishing sowie den jeweiligen Einfluss auf den veröffentlichen Inhalt im Internet.
+## Untersuchung der gestalterischen Publikationsmethoden von digital/hybrid Publishing sowie den jeweiligen Einfluss auf den veröffentlichten Inhalt im Internet.
 
 *Fragestellung:
 
