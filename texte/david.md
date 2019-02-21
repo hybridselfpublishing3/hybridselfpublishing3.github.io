@@ -1,7 +1,7 @@
-# HEADLINE
+# Öffentlichkeit abseits von Öffentlichkeit
 
 * David Lankes *
 
-### Öffentlichkeit abseits von Öffentlichkeit
+
 
 
