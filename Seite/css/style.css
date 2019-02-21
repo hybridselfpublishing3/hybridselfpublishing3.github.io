@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css?family=Kadwa:400,700|Karla:400,400i,700,700i|Lora:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i|EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i');
+
+* {
+  font-family: 'Karla', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+div a {
+  padding: 15px 80px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+
+div a:hover {
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+}
+
+
+#content img {
+  display: block;
+  max-width: 300px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* textmakierung verbieten */
+body{
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 15px 80px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #000;
+  background: rgb(0, 0, 0);
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+.hero {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #1b1b1b;
+  background-color: #000000;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+} 
+.hero h1 {
+  text-align: center;
+  line-height: 1000px;
+}
+
+
+
+#content {
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+#content2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+#content3 {
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
+
+#content h2 {
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content h3 {
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: italic;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+
+#content p {
+  font-family: 'EB Garamond', serif;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+
+#content a {
+  display: inline-block;
+  padding: 10px 50px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-family: 'Karla', sans-serif;
+  line-height: 20px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content a:hover {
+  color: #000;
+  background: rgb(0, 0, 0);
+}
+
+#content p span {
+  background-color: #000000;
+}
+
+/* zweiter Textabschnitt */
+
+#content2 h2 {
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content2 h3 {
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: italic;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+
+#content2 p {
+  font-family: 'EB Garamond', serif;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+
+#content2 a {
+  display: inline-block;
+  padding: 10px 50px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-family: 'Karla', sans-serif;
+  line-height: 20px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content2 a:hover {
+  color: #000;
+  background: rgb(0, 0, 0);
+}
+
+#content2 p span {
+  background-color: #000000;
+}
+
+/* letzter Textabschnitt */
+
+
+#content3 h2 {
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content3 h3 {
+  font-family: 'EB Garamond', serif;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: italic;
+  line-height: 20px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+
+#content3 p {
+  font-family: 'EB Garamond', serif;
+  line-height: 22px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+
+#content3 a {
+  display: inline-block;
+  padding: 10px 50px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-family: 'Karla', sans-serif;
+  line-height: 20px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content3 a:hover {
+  color: #000;
+  background: rgb(0, 0, 0);
+}
+
+#content3 p span {
+  background-color: #000000;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+}
