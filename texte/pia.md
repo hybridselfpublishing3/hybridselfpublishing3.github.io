@@ -19,3 +19,9 @@ Welche Möglichkeiten bieten dabei die jeweiligen Visualisierungsmethoden im Bez
 
 - Webdesign, Lesequalität
 - Möglichkeit Links und Videos einzubinden
+
+
+- Zirkulation = mehr Öffentlichkeit?
+- Wert und Qualität
+- Individualität
+- Veränderbarkeit von Inhalten (teilt man noch den gleichen Raum, wenn unterschiedliche Versionen von Inhalten vorhanden sind)
