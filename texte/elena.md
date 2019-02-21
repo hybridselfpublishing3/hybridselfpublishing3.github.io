@@ -7,6 +7,7 @@ Self-Publishing = Vermeintliche Freiheit ?
 Überwindet Self-Publishing Zensur?
 Rechte des Urhebers
 
+Kontrollmechanismen
 
 Im digitalen Zeitalter besteht die größte Gefahr nicht darin, dass die Technologie freie und autokratische Gesellschaften zunehmend gegeneinander aufbringt, sondern vielmehr darin, dass die schlimmsten Befürchtungen von Orwell und Huxley in beiden Systemen manifest werden und eine andere Art von Dystopie erzeugen. Da man vielen der sehnlichsten Wünsche der Bürger entspricht, werden sie die Illusion von Freiheit und Ermächtigung haben. In Wahrheit allerdings werden ihr Leben, die von ihnen konsumierten Informationen und die Entscheidungen, die sie treffen, von Algorithmen und Plattformen bestimmt, die unter der Kontrolle nicht rechenschaftspflichtiger Unternehmen oder staatlicher Eliten stehen.
 https://www.derstandard.de/story/2000067591817/die-illusion-der-freiheit-im-digitalen-zeitalter
@@ -64,3 +65,9 @@ A BBC World Service poll of 27,973 adults in 26 countries, including 14,306 Inte
     Despite worries about privacy and fraud, people around the world see access to the internet as their fundamental right. They think the web is a force for good, and most don’t want governments to regulate it.[47] 
 
 The poll found that nearly four in five (78%) Internet users felt that the Internet had brought them greater freedom, that most Internet users (53%) felt that "the internet should never be regulated by any level of government anywhere", and almost four in five Internet users and non-users around the world felt that access to the Internet was a fundamental right (50% strongly agreed, 29% somewhat agreed, 9% somewhat disagreed, 6% strongly disagreed, and 6% gave no opinion).[48] 
+
+https://netzpolitik.org/2018/eu-kommission-will-von-plattformen-freiwillige-und-weitreichende-internetzensur/
+
+! http://www.zensur.freerk.com/index-de.htm !
+
+Autorschaft
