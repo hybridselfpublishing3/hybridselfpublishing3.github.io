@@ -24,7 +24,11 @@
 - schnellerer Zugang zu Inhalten (eventuell kostengünstiger?)
 
 ##### Quellen:
+
 Internet und Demokratie: http://www.rainer-rilling.de/blog/wp-content/uploads/wsi.pdf
+
 Kommunikation im Internet: https://books.google.de/books?hl=de&lr=&id=Qwh_qYbCcCQC&oi=fnd&pg=PR1&dq=internet+%C3%B6ffentliche+raum&ots=CnclK2MQVs&sig=JeLfZqzisOMyFGlu3jWd-E7a64w#v=onepage&q=internet%20%C3%B6ffentliche%20raum&f=false
+
 Nutzungsdifferenzen als Indikator für soziale Ungleichheit im Internet: https://www.ssoar.info/ssoar/handle/document/12693
+
 Demokratische Internet-Öffentlichkeit?: https://link.springer.com/article/10.1007/s11616-007-0084-0
