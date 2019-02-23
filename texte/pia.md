@@ -5,18 +5,24 @@
 *Pia-Maria Michnik*
 
 ### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
-    *Dateiformate (E-Book, PDF, Leseprobe, etc), Webformate (Blog-Einräge, Webseiten, Webdesign, Lesekomfort, Links, etc.)*
+- Dateiformate (E-Book, PDF, Leseprobe, etc), Webformate (Blog-Einräge, Webseiten, Webdesign, Lesekomfort, Links, etc.)
     
 ### 1.1 Möglichkeiten der jeweiligen Publikationsmethoden im Bezug auf die Zugänglichkeit und Verfügbarkeit
-    *Einstufung der Veröffentlichungmethoden von stark eingeschränkter bis öffentlich zugänglich*
-    *Zirkulationsmöglichkeiten der digitalen/hybriden Publikationen (weiterleiten/-schicken von Links und Dateien, Verbreitung üder social media etc.)*
+- Einstufung der Veröffentlichungmethoden von stark eingeschränkt bis öffentlich zugänglich
+- Zirkulationsmöglichkeiten der digitalen/hybriden Publikationen (Weiterleiten/-schicken von Links und Dateien, Verbreitung üder social media im Vergleich zur Verbreitung von Printversionen)
     
 ### 1.2 Der Einfluss der Möglichkeit digitale Publikationen kontinuierlich zu verändern und weiter zu entwickeln.
-    *Formen der Ergänzung von Publikationen: mehrere Auflagen, Updates, fortlaufende Weiterentwicklung (z.B. beim Blog)*
-    *Einfluss der Veränderungsmöglichkeiten auf die Qualität des Inhaltes*
+- Formen der Ergänzung von Publikationen: mehrere Auflagen, Updates, fortlaufende Weiterentwicklung (z.B. beim Blog)
+- Einfluss der Veränderungsmöglichkeiten auf die Qualität der Inhalte
     
-### 2. Internet als öffentlicher Raum
-### 3. 
+### 2. Vorteile und Nutzen von digitalen/hybriden Publikationsmethoden
+- Benutzerfreundlichkeit (Auswahl digital oder print Version zu Lesen)
+- Einfluss auf das Internet als öffentlichen Raum
+
+### 3. Fazit
+
+-------------------------------------------
+
 
 #### Inwieweit beeinflussen digitale/hybride Publikationsmethoden im Internet den veröffentlichten Inhalt?
 - Qualität des Inhaltes, Individualität
@@ -36,6 +42,8 @@
 #### Warum sollte mann hybride Publikationsmethoden nutzen?
 - Benutzerfreundlichkeit: Dem Leser die Wahl überlassen ob z.B. am Bildschirm oder über gedruckte Version gelesen werden soll
 - schnellerer Zugang zu Inhalten (eventuell kostengünstiger?)
+
+-----------------------------------------
 
 ##### Quellen:
 
