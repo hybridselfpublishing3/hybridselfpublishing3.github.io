@@ -45,7 +45,8 @@ Der online von (uns Autoren) selbst zensierte Text, mit der Funktion durch die D
 #### Internet als Zwischenmedium:
 - Da nur online über die HTML Seite ein Zugang zu den zensierten Texten geschafft wird und der gesamte Inhalt erst als Download der Printversion zur Verfügung steht, bildet das Internet nur ein Zwischenmedium. Das Publikationsmedium ist dabei der Drucker bzw. das lokale Endgerät des Lesers
 
-*Pia Ende*
+
+
 
 *Pia 23.02.*
 
@@ -76,3 +77,5 @@ Das zeitlich limitierte Vorhandensein des ganzen Textes kann folgendes repräsen
 #### Limitierund und Download-Zwang:
 - Die zeitliche Limitierung des Textes und die kontinuierliche Löschung von Wörtern kann beobachtet werden.
 - Anders als bei der Zensur durch Schwärzen werden hier ganze Wörter und Sätze nach und nach gelöscht, es bleiben weder Lücken noch optische Hinweise, dass etwas zensiert wurde.
+
+*Pia Ende*
