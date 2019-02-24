@@ -38,7 +38,7 @@ span.printblack {
 }
 
 .printonly {
-display: none;
+display: block;
 }
   
 .hero h1 {
