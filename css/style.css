@@ -13,7 +13,7 @@
 
 #content2 a.source {
   font-family: 'Karla', sans-serif;
-  font-size: 10px;
+  font-size: 8px;
   font-weight: 400;
   display: block;
   line-height: 22px;
@@ -176,21 +176,6 @@ nav ul li a:hover {
 }
 
 
-#content a {
-  display: inline-block;
-  padding: 10px 50px;
-  color: #FFFFFF;
-  text-decoration: none;
-  font-family: 'Karla', sans-serif;
-  line-height: 20px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content a:hover {
-  color: #000000;
-  background: #000000;
-}
 
 #content p span {
   background-color: #000000;
