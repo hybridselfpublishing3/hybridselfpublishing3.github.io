@@ -115,7 +115,7 @@ span.printblack {
 .hero h1 {
   text-align: center;
   line-height: 50px;
-  padding-top: 30px;
+  padding-top: 50px;
   padding-bottom: 30px;
 }
 
@@ -142,7 +142,7 @@ span.printblack {
   display: block;
   text-align: center;
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
 }
 
 .hero a:active {
