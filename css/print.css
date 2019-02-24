@@ -8,22 +8,26 @@
   padding-bottom: 100px;
 }
 
-#content p span.printblack {
-  font-family: inherit;
+span.webblack {
+  background-color: transparent;
+}
+
+span.printblack {
   background-color: #000000;
 }
 
-#content,
-#content2 {
+.content {
   page-break-before: always;
   page-break-after: always;
+}
+
+#content1,
+#content2 {
   margin-top: 100px;
   margin-bottom: 100px;
 }
 
 #content3 {
-  page-break-before: always;
-  page-break-after: always;
   margin-top: 100px;
   margin-bottom: 20px;
 }
@@ -31,12 +35,6 @@
 .hero a,
 .hero a:active {
   color: #000;
-}
-
-#content p span.webblack,
-#content2 p span.webblack,
-#content3 p span.webblack {
-  background-color: transparent;
 }
 
 nav {
