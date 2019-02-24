@@ -293,7 +293,9 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-
+#content2 p span {
+  background-color: #000000;
+}
 
 /* letzter Textabschnitt */
 
