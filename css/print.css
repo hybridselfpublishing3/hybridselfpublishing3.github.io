@@ -32,6 +32,14 @@ span.printblack {
   margin-bottom: 20px;
 }
 
+#content4 {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+.printonly {
+dirplay: none;
+}
   
 .hero h1 {
   text-align: center;
