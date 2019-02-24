@@ -12,23 +12,23 @@
 
 a.source {
   padding: 15px 80px;
-  color: rgb(255, 255, 255);
+  color: #FFFFFF;
   text-decoration: none;
 }
 a.source:hover {
-  color: rgb(0, 0, 0);
-  background: rgb(255, 255, 255);
+  color: #000000;
+  background: #FFFFFF;
 }
 
 
 a.print {
   padding: 15px 80px;
-  color: rgb(255, 255, 255);
+  color: #FFFFFF;
   text-decoration: none;
 }
 a.print:hover {
-  color: rgb(0, 0, 0);
-  background: rgb(255, 255, 255);
+  color: #000000;
+  background: #FFFFFF;
 }
 
 
@@ -64,13 +64,13 @@ nav ul li {
 nav ul li a {
   display: inline-block;
   padding: 15px 80px;
-  color: rgb(0, 0, 0);
+  color: #000000;
   text-decoration: none;
 }
 
 nav ul li a:hover {
-  color: #000;
-  background: rgb(0, 0, 0);
+  color: #000000;
+  background: #000000;
 }
 
 
@@ -80,7 +80,7 @@ nav ul li a:hover {
 
 .hero a {
   font-family: 'EB Garamond', serif;
-  color: #FFFFF;
+  color: #FFFFFF;
   text-decoration: none;
   font-size: 30x;
   font-weight: 800;
@@ -92,7 +92,7 @@ nav ul li a:hover {
 }
 
 .hero a:active {
-  color: #FFFFF;
+  color: #FFFFFF;
 }
 
 .hero a:hover {
@@ -173,7 +173,7 @@ nav ul li a:hover {
 #content a {
   display: inline-block;
   padding: 10px 50px;
-  color: rgb(0, 0, 0);
+  color: #FFFFFF;
   text-decoration: none;
   font-family: 'Karla', sans-serif;
   line-height: 20px;
@@ -182,8 +182,8 @@ nav ul li a:hover {
 }
 
 #content a:hover {
-  color: #000;
-  background: rgb(0, 0, 0);
+  color: #000000;
+  background: #000000;
 }
 
 #content p span {
@@ -223,7 +223,7 @@ nav ul li a:hover {
 #content2 a {
   display: inline-block;
   padding: 10px 50px;
-  color: rgb(0, 0, 0);
+  color: #000000;
   text-decoration: none;
   font-family: 'Karla', sans-serif;
   line-height: 20px;
@@ -274,7 +274,7 @@ nav ul li a:hover {
 #content3 a {
   display: inline-block;
   padding: 10px 50px;
-  color: rgb(0, 0, 0);
+  color: #000000;
   text-decoration: none;
   font-family: 'Karla', sans-serif;
   line-height: 20px;
