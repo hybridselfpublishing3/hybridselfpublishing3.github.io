@@ -2,19 +2,31 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i|EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i');
 
 * {
-  font-family: 'Karla', sans-serif;
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  font-size: 16px
+}
+
+/* Hilfsklassen */
 .hide {
   display: none;
 }
+.text-center {
+  text-align: center;
+}
 
+p.cite {
+  font-style: italic;
+}
 
-#content a.source {
-  font-family: 'Karla', sans-serif;
+/* Quellenangabenlink */
+a.source {
   font-size: 10px;
-  font-weight: 400;
   display: block;
   line-height: 16px;
   color: #6E6E6E;
@@ -22,77 +34,21 @@
   width: 60%;
   margin: 0 auto;
 }
-#content a.source:hover {
+a.source:hover {
   color: #F2F2F2;
 }
-#content a.textsource {
-  font-family: 'Karla', sans-serif;
+
+/* Quellenangabenlink im Text */
+a.textsource {
   font-size: 10px;
-  font-weight: 400;
   text-decoration: none;
   color: #000000;
 }
-#content a.textsource:hover {
+a.textsource:hover {
   color: #F2F2F2;
 }
 
-
-#content2 a.source {
-  font-family: 'Karla', sans-serif;
-  font-size: 10px;
-  font-weight: 400;
-  display: block;
-  line-height: 16px;
-  color: #6E6E6E;
-  text-decoration: none;
-  width: 60%;
-  margin: 0 auto;
-}
-#content2 a.source:hover {
-  color: #F2F2F2;
-}
-#content2 a.textsource {
-  font-family: 'Karla', sans-serif;
-  font-size: 10px;
-  font-weight: 400;
-  text-decoration: none;
-  color: #000000;
-}
-#content2 a.textsource:hover {
-  color: #F2F2F2;
-}
-
-
-#content3 a.source {
-  font-family: 'Karla', sans-serif;
-  font-size: 10px;
-  font-weight: 400;
-  display: block;
-  line-height: 16px;
-  color: #6E6E6E;
-  text-decoration: none;
-  width: 60%;
-  margin: 0 auto;
-}
-#content3 a.source:hover {
-  color: #F2F2F2;
-}
-#content3 a.textsource {
-  font-family: 'Karla', sans-serif;
-  font-size: 10px;
-  font-weight: 400;
-  text-decoration: none;
-  color: #000000;
-}
-#content3 a.textsource:hover {
-  color: #F2F2F2;
-}
-
-
-
-
-
-
+/* Drucklink */
 a.print {
   padding: 15px 80px;
   color: #FFFFFF;
@@ -101,21 +57,6 @@ a.print {
 a.print:hover {
   color: #000000;
   background: #FFFFFF;
-}
-
-
-
-
-#content img,
-#content2 img,
-#content3 img {
-  display: block;
-  max-width: 300px;
-  max-height: 300px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* textmakierung verbieten */
@@ -128,6 +69,7 @@ body{
   user-select: none;
 }
 
+/* Navigation */
 nav ul li {
   list-style-type: none;
   display: inline-block;
@@ -145,9 +87,36 @@ nav ul li a:hover {
   background: #000000;
 }
 
+/* Zensur */
+span.webblack {
+  font-family: inherit;
+  background-color: #000000;
+}
 
-.text-center {
+span.printblack {
+  font-family: inherit;
+  background-color: transparent;
+}
+
+
+/* HERO */
+.hero {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #1b1b1b;
+  background-color: #000000;
+  width: 100%;
+  margin: 0;
+  padding-top: 300px;
+  padding-bottom: 300px;
+} 
+  
+.hero h1 {
   text-align: center;
+  line-height: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .hero a {
@@ -166,55 +135,38 @@ nav ul li a:hover {
 .hero a:active {
   color: #FFFFFF;
 }
-
 .hero a:hover {
   color: #848484;
 }
   
 
-
-.hero {
-  font-family: 'Karla', sans-serif;
-  font-weight: 700;
-  font-size: 30px;
-  color: #1b1b1b;
-  background-color: #000000;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-} 
-  
-.hero h1 {
-  text-align: center;
-  line-height: 50px;
-   padding-top: 30px;
+/* Bilder */
+.content img {
+  display: block;
+  max-width: 300px;
+  max-height: 300px;
+  padding-top: 30px;
   padding-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.hero {
-  padding-top: 300px;
-  padding-bottom: 300px;
-}
-
-
-
-#content {
+/* Abstände für die Inhalte */
+#content1 {
   margin-top: 200px;
   margin-bottom: 100px;
 }
-
 #content2 {
   margin-top: 80px;
   margin-bottom: 100px;
 }
-
-
 #content3 {
   margin-top: 80px;
   margin-bottom: 250px;
 }
 
-#content h2 {
+/* Inhalte */
+.content h2 {
   font-family: 'EB Garamond', serif;
   font-size: 30px;
   font-weight: 800;
@@ -223,7 +175,7 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-#content h3 {
+.content h3 {
   font-family: 'EB Garamond', serif;
   font-size: 22px;
   font-weight: 600;
@@ -232,7 +184,7 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-#content h4 {
+.content h4 {
   font-family: 'EB Garamond', serif;
   font-size: 16px;
   font-weight: 400;
@@ -242,107 +194,14 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-#content p {
+.content p {
   font-family: 'EB Garamond', serif;
   line-height: 22px;
   width: 60%;
   margin: 0 auto;
 }
 
-
-#content p span.webblack {
-  font-family: inherit;
-  background-color: #000000;
-}
-
-/* zweiter Textabschnitt */
-
-#content2 h2 {
-  font-family: 'EB Garamond', serif;
-  font-size: 30px;
-  font-weight: 800;
-  line-height: 22px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content2 h3 {
-  font-family: 'EB Garamond', serif;
-  font-size: 22px;
-  font-weight: 600;
-  line-height: 26px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content2 h4 {
-  font-family: 'EB Garamond', serif;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: italic;
-  line-height: 22px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-
-#content2 p {
-  font-family: 'EB Garamond', serif;
-  line-height: 22px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content2 p span.webblack {
-  font-family: inherit;
-  background-color: #000000;
-}
-
-/* letzter Textabschnitt */
-
-
-#content3 h2 {
-  font-family: 'EB Garamond', serif;
-  font-size: 30px;
-  font-weight: 800;
-  line-height: 22px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content3 h3 {
-  font-family: 'EB Garamond', serif;
-  font-size: 22px;
-  font-weight: 600;
-  line-height: 26px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content3 h4 {
-  font-family: 'EB Garamond', serif;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: italic;
-  line-height: 22px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-
-#content3 p {
-  font-family: 'EB Garamond', serif;
-  line-height: 22px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content3 p span.webblack {
-  font-family: inherit;
-  background-color: #000000;
-}
-
-
+/* Footer */
 .footer {
   position: fixed;
   left: 0;
