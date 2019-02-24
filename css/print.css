@@ -27,10 +27,12 @@
   
 .hero a {
   color: #00000;
+  background-color: #D358F7;
 }
 
 .hero a:active {
   color: #00000;
+  background-color: #D358F7;
 }
 
 #content span {
