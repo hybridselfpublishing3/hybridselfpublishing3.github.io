@@ -8,6 +8,8 @@
   padding-bottom: 100px;
 }
 
+#cont
+
 #content,
 #content2 {
   page-break-before: always;
@@ -28,9 +30,9 @@
   color: #000;
 }
 
-#content p span,
-#content2 p span,
-#content3 p span {
+#content p span.webblack,
+#content2 p span.webblack,
+#content3 p span.webblack {
   background-color: transparent;
 }
 
