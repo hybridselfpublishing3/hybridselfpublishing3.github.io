@@ -184,6 +184,15 @@ span.printblack {
   margin-bottom: 250px;
 }
 
+#content4 {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.printonly {
+dirplay: none;
+}
+
 /* Inhalte */
 .content h2 {
   font-family: 'EB Garamond', serif;
