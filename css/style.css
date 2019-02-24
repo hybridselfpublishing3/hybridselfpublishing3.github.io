@@ -167,7 +167,6 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-
 #content p {
   font-family: 'EB Garamond', serif;
   line-height: 22px;
@@ -211,25 +210,6 @@ nav ul li a:hover {
 }
 
 
-#content2 a {
-  display: inline-block;
-  padding: 10px 50px;
-  color: #000000;
-  text-decoration: none;
-  font-family: 'Karla', sans-serif;
-  line-height: 20px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content2 a:hover {
-  color: #000;
-  background: rgb(0, 0, 0);
-}
-
-#content2 p span {
-  background-color: #000000;
-}
 
 /* letzter Textabschnitt */
 
@@ -259,23 +239,6 @@ nav ul li a:hover {
   line-height: 22px;
   width: 60%;
   margin: 0 auto;
-}
-
-
-#content3 a {
-  display: inline-block;
-  padding: 10px 50px;
-  color: #000000;
-  text-decoration: none;
-  font-family: 'Karla', sans-serif;
-  line-height: 20px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-#content3 a:hover {
-  color: #000;
-  background: rgb(0, 0, 0);
 }
 
 #content3 p span {
