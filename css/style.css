@@ -28,6 +28,17 @@
 }
 
 
+#content2 a.textsource {
+  font-family: 'Karla', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+ 
+}
+#content2 a.textsource:hover {
+  color: #F2F2F2;
+}
+
+
 
 
 a.print {
