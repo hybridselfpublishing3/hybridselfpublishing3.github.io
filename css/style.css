@@ -32,6 +32,7 @@
   font-family: 'Karla', sans-serif;
   font-size: 10px;
   font-weight: 400;
+  text-decoration: none;
   color: #000000;
 }
 #content2 a.textsource:hover {
