@@ -250,7 +250,7 @@ nav ul li a:hover {
 }
 
 
-#content p span {
+#content p span.webblack {
   font-family: inherit;
   background-color: #000000;
 }
@@ -293,7 +293,7 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-#content2 p span {
+#content2 p span.webblack {
   font-family: inherit;
   background-color: #000000;
 }
@@ -337,7 +337,7 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-#content3 p span {
+#content3 p span.webblack {
   font-family: inherit;
   background-color: #000000;
 }
@@ -349,7 +349,7 @@ nav ul li a:hover {
   bottom: 0;
   width: 100%;
   background-color: #000000;
-  color: white;
+  color: #FFFFFF;
   text-align: center;
   line-height: 50px;
 }
