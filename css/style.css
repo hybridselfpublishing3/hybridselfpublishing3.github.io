@@ -119,6 +119,18 @@ span.printblack {
   padding-bottom: 30px;
 }
 
+.hero h3 {
+  font-family: 'EB Garamond', serif;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 30px;
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
 .hero a {
   font-family: 'EB Garamond', serif;
   color: #FFFFFF;
