@@ -174,8 +174,17 @@ nav ul li a:hover {
 
 #content h3 {
   font-family: 'EB Garamond', serif;
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 600;
+  line-height: 26px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content h4 {
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  font-weight: 400;
   font-style: italic;
   line-height: 22px;
   width: 60%;
@@ -208,8 +217,17 @@ nav ul li a:hover {
 
 #content2 h3 {
   font-family: 'EB Garamond', serif;
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 600;
+  line-height: 26px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content2 h4 {
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  font-weight: 400;
   font-style: italic;
   line-height: 22px;
   width: 60%;
@@ -240,10 +258,19 @@ nav ul li a:hover {
 
 #content3 h3 {
   font-family: 'EB Garamond', serif;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
+  line-height: 26px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#content3 h4 {
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  font-weight: 400;
   font-style: italic;
-  line-height: 20px;
+  line-height: 22px;
   width: 60%;
   margin: 0 auto;
 }
