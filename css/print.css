@@ -8,7 +8,10 @@
   padding-bottom: 100px;
 }
 
-#cont
+#content p span.printblack {
+  font-family: inherit;
+  background-color: #000000;
+}
 
 #content,
 #content2 {
