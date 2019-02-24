@@ -37,6 +37,10 @@ span.printblack {
   color: #000;
 }
 
+.hero h3 {
+  color: #000;
+}
+
 nav {
   display: none;
 }
