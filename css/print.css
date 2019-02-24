@@ -1,9 +1,9 @@
 .footer {
-  display:none;
+  display: none;
 }
 
 .hero {
-  background:transparent;
+  background: transparent;
   padding-top: 300px;
   padding-bottom: 100px;
 }
@@ -31,7 +31,7 @@
 #content p span,
 #content2 p span,
 #content3 p span {
-  background-color: none;
+  background-color: transparent;
 }
 
 nav {
