@@ -19,7 +19,13 @@
   color: #00000;
 }
 
+#content p span {
+  background-color: none;
+}
 #content2 p span {
+  background-color: none;
+}
+#content3 p span {
   background-color: none;
 }
 
