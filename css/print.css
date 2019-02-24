@@ -4,3 +4,9 @@
 .hero {
   background:transparent;
 }
+
+#content1,
+#content2,
+#content3 {
+  page-break-after: always;
+}
