@@ -80,9 +80,11 @@ nav ul li a:hover {
 
 .hero a {
   font-family: 'EB Garamond', serif;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 22px;#
+  color: #FFFFF;
+  font-size: 30x;
+  font-weight: 800;
+  line-height: 22px;
+  display: block;
   text-align: center;
 }
 
