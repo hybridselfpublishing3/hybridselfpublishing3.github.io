@@ -5,10 +5,10 @@
   background:transparent;
 }
 
-#content1,
+#content,
 #content2,
 #content3 {
   page-break-after: always;
-   margin-top: 50px;
+  margin-top: 50px;
   margin-bottom: 100px;
 }
