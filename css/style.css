@@ -21,6 +21,17 @@ a.source:hover {
 }
 
 
+a.print {
+  padding: 15px 80px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+a.print:hover {
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+}
+
+
 #content img,
 #content2 img,
 #content3 img {
