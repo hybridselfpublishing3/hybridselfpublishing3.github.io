@@ -17,11 +17,16 @@
   font-weight: 400;
   display: block;
   line-height: 22px;
-  color: ##6E6E6E;
+  color: #6E6E6E;
   text-decoration: none;
+  width: 60%;
+  margin: 0 auto;
+}
+#content2 a:active {
+  color: #6E6E6E;
 }
 #content2 a.source:hover {
-  color: ##F2F2F2;
+  color: #F2F2F2;
 }
 
 
