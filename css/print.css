@@ -32,6 +32,14 @@ span.printblack {
   margin-bottom: 20px;
 }
 
+  
+.hero h1 {
+  text-align: center;
+  line-height: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
 .hero a,
 .hero a:active {
   color: #000;
