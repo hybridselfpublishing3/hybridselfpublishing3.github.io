@@ -32,6 +32,8 @@ a.print:hover {
 }
 
 
+
+
 #content img,
 #content2 img,
 #content3 img {
@@ -76,6 +78,16 @@ nav ul li a:hover {
   text-align: center;
 }
 
+.hero a {
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;#
+  text-align: center;
+}
+
+
+
 .hero {
   font-family: 'Karla', sans-serif;
   font-weight: 700;
@@ -86,6 +98,7 @@ nav ul li a:hover {
   margin: 0;
   padding: 0;
 } 
+  
 .hero h1 {
   text-align: center;
   line-height: 1000px;
