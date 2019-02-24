@@ -13,13 +13,10 @@
 
 #content a.source {
   font-family: 'Karla', sans-serif;
-  font-size: 15px;
+  font-size: 10px;
   font-weight: 400;
   display: block;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 5px;
-  padding:top: 5px;
+  line-height: 22px;
   color: ##6E6E6E;
   text-decoration: none;
 }
