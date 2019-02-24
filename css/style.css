@@ -11,7 +11,7 @@
 }
 
 
-#content a.source {
+#content2 a.source {
   font-family: 'Karla', sans-serif;
   font-size: 10px;
   font-weight: 400;
@@ -20,9 +20,11 @@
   color: ##6E6E6E;
   text-decoration: none;
 }
-a.source:hover {
+#content2 a.source:hover {
   color: ##F2F2F2;
 }
+
+
 
 
 a.print {
