@@ -14,5 +14,9 @@
 }
 
 
-.hero a {
+.hero a:active {
   color: #00000;
+
+  span {
+  background-color: none;
+  }
