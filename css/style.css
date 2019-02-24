@@ -170,7 +170,7 @@ span.printblack {
   margin-right: auto;
 }
 
-img.qr {
+.content img.qr {
   display: block;
   max-width: 150px;
   max-height: 150px;
