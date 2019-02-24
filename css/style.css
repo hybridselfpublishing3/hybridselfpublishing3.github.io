@@ -172,9 +172,9 @@ span.printblack {
 
 img.qr {
   display: block;
-  max-width: 200px;
-  max-height: 200px;
-  padding-top: 80px;
+  max-width: 150px;
+  max-height: 150px;
+  padding-top: 150px;
   padding-bottom: 30px;
   margin-left: auto;
   margin-right: auto;
