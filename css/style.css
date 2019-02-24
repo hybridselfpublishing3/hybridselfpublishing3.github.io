@@ -10,14 +10,21 @@
   display: none;
 }
 
-a.source {
-  padding: 15px 80px;
-  color: #FFFFFF;
+
+#content a.source {
+  font-family: 'Karla', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  display: block;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  padding:top: 5px;
+  color: ##6E6E6E;
   text-decoration: none;
 }
 a.source:hover {
-  color: #000000;
-  background: #FFFFFF;
+  color: ##F2F2F2;
 }
 
 
