@@ -7,7 +7,6 @@
   padding-top: 300px;
   padding-bottom: 100px;
 }
-  
 
 #content,
 #content2 {
@@ -24,28 +23,17 @@
   margin-bottom: 20px;
 }
 
-  
-.hero a {
-  color: #00000 !important;
-  background-color: #151515;
-}
-
+.hero a,
 .hero a:active {
-  color: #00000 !important;
-  background-color: #151515;
+  color: #000;
 }
 
-#content p span {
-  background-color: none;
-}
-#content2 p span {
-  background-color: none;
-}
+#content p span,
+#content2 p span,
 #content3 p span {
   background-color: none;
 }
 
-  
-  nav {
+nav {
   display: none;
-  }
+}
