@@ -10,14 +10,12 @@
   display: none;
 }
 
-div a {
+a.source {
   padding: 15px 80px;
   color: rgb(255, 255, 255);
   text-decoration: none;
 }
-
-
-div a:hover {
+a.source:hover {
   color: rgb(0, 0, 0);
   background: rgb(255, 255, 255);
 }
