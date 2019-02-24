@@ -170,6 +170,15 @@ span.printblack {
   margin-right: auto;
 }
 
+img.qr {
+  display: block;
+  max-width: 300px;
+  max-height: 300px;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
 /* Abstände für die Inhalte */
 #content1 {
   margin-top: 200px;
