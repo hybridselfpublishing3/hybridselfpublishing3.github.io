@@ -24,6 +24,12 @@ p.cite {
   font-style: italic;
 }
 
+p.autor {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 26px;
+}
+
 /* Quellenangabenlink */
 a.source {
   font-size: 10px;
