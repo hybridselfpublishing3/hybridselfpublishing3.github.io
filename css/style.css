@@ -103,7 +103,12 @@ nav ul li a:hover {
   
 .hero h1 {
   text-align: center;
-  line-height: 1000px;
+  line-height: 50px;
+}
+
+.hero {
+  padding-top: 300px;
+  padding-bottom: 300px;
 }
 
 
