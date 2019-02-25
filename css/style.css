@@ -100,8 +100,8 @@ nav ul li a:hover {
 
 /* Zensur */
 span.webblack {
-  font-family: blackened-regular;
-  color: #000000;
+  font-family: inherit;
+  background-color: #000000;
 }
 
 span.printblack {
