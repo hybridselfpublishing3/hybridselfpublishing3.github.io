@@ -27,6 +27,10 @@ span.printblack {
   page-break-after: always;
 }
 
+#seitenumbruch {
+  page-break-after: always;
+}
+
 #content1,
 #content2 {
   margin-top: 100px;
