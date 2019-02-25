@@ -15,6 +15,7 @@ span.webblack {
 
 span.printblack {
   font-family: 'censorship.woff';
+  font-style: none;
   color: #000;
 }
 
