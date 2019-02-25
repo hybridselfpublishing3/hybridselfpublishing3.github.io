@@ -2,10 +2,6 @@
   display: none;
 }
 
-@font-face {
-font-family: 'blackened-regular';
-src: local('fonts/blackened-regular.woff2') format('woff2'); }
-
 .hero {
   background: transparent;
   padding-top: 300px;
@@ -14,11 +10,12 @@ src: local('fonts/blackened-regular.woff2') format('woff2'); }
 
 
 span.webblack {
-  background-color: transparent;
+  font-family: inherit;
 }
 
 span.printblack {
-  background-color: #000000;
+  font-family: 'blackened-regular';
+  color: #000;
 }
 
 
