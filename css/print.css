@@ -28,6 +28,7 @@ span.printblack {
 }
 
 .seitenumbruch {
+  page-break-before: always;
   page-break-after: always;
 }
 
