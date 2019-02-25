@@ -18,8 +18,8 @@ background-color: transparent;
 }
 
 span.printblack {
- font-family: blackened-regular;
-  color: #000000;
+ font-family: inherit;
+background-color: #000000;
 }
 
 .content {
