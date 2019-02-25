@@ -5,16 +5,16 @@
 <h4>1865 im Verlag Braun und Schneider, München</h4>
 <br>
 <br>
-<p>Mancher gibt sich viele Müh</p>
-<p>Mit dem lieben Federvieh:</p>
-<p>Einesteils der Eier wegen,</p>
-<p>Welche diese Vögel legen,</p>
-<p>Zweitens, weil man dann und wann</p>
-<p>Einen <span class="webblack">Braten essen kann;</span></p>
-<p>Drittens aber nimmt man auch</p>
-<p>Ihre Federn zum Gebrauch</p>
-<p>In die Kissen und die Pfühle,</p>
-<p>Denn man liegt nicht gerne kühle.</p>
+Mancher gibt sich viele Müh
+Mit dem lieben Federvieh:
+Einesteils der Eier wegen,
+Welche diese Vögel legen,
+Zweitens, weil man dann und wann
+Einen <span class="webblack">Braten essen kann;</span>
+Drittens aber nimmt man auch
+Ihre Federn zum Gebrauch
+In die Kissen und die Pfühle,
+Denn man liegt nicht gerne kühle.
 <br>
 <br>
 <h3>”Seht, da ist die Witwe Bolte, Die das auch nicht gerne wollte.”</h3>
