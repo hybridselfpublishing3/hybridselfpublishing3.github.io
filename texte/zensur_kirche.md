@@ -1,12 +1,12 @@
-Missbrauchsskandal
+<h3>Missbrauchsskandal</h3>
+<br>
+<h2><span class="webblack">Papst</span> entlässt <span class="webblack">Ex-Erzbischof</span> aus dem <span class="webblack">Priesteramt</span></h2>
+<br>
+<h4>Im Missbrauchsskandal in den USA hat der <span class="webblack">Vatikan</span> den emeritierten <span class="webblack">Erzbischof</span> von Washington nach dessen Rücktritt auch aus dem <span class="webblack">Priesteramt</span> entlassen. Auch <span class="webblack">Papst Franziskus</span> war wegen des Falls kritisiert worden.</h4>
 
-Papst entlässt Ex-Erzbischof aus dem Priesteramt
-
-Im Missbrauchsskandal in den USA hat der Vatikan den emeritierten Erzbischof von Washington nach dessen Rücktritt auch aus dem Priesteramt entlassen. Auch Papst Franziskus war wegen des Falls kritisiert worden.
-
-In den USA werden Hunderte katholische Priester des sexuellen Missbrauchs von Kindern beschuldigt. Allein im Bundesstaat Pennsylvania hatten mehr als 300 Priester über Jahrzehnte hinweg mehr als Tausend Kinder sexuell missbraucht, die Dunkelziffer könnte laut einer Untersuchung noch sehr viel höher liegen.
-
-Auch Theodore McCarrick wird wegen Missbrauchs schwer beschuldigt. Nun hat Papst Franziskus den emeritierten Erzbischof von Washington aus dem Priesteramt entlassen. Der 88-Jährige sei in einer Untersuchung der Glaubenskongregation des Vatikans des sexuellen Fehlverhaltens im Umgang mit Minderjährigen und Erwachsenen schuldig befunden worden, hieß es in einer Mitteilung des Heiligen Stuhls. Erschwerend komme der Umstand des Machtmissbrauchs hinzu.
+<p>In den USA werden Hunderte <span class="webblack">katholische Priester</span> des sexuellen Missbrauchs von Kindern beschuldigt. Allein im Bundesstaat Pennsylvania hatten mehr als 300 <span class="webblack">Priester</span> über Jahrzehnte hinweg mehr als Tausend Kinder sexuell missbraucht, die Dunkelziffer könnte laut einer Untersuchung noch sehr viel höher liegen.
+<br>
+  Auch <span class="webblack">Theodore McCarrick</span> wird wegen Missbrauchs schwer beschuldigt. Nun hat <span class="webblack">Papst Franziskus</span> den emeritierten <span class="webblack">Erzbischof</span> von Washington aus dem <span class="webblack">Priesteramt</span> entlassen. Der 88-Jährige sei in einer Untersuchung der <span class="webblack">Glaubenskongregation</span> des <span class="webblack">Vatikans</span> des sexuellen Fehlverhaltens im Umgang mit Minderjährigen und Erwachsenen schuldig befunden worden, hieß es in einer Mitteilung des <span class="webblack">Heiligen Stuhls</span>. Erschwerend komme der Umstand des Machtmissbrauchs hinzu.
 
 Die Entscheidung wurde wenige Tage vor einem Spitzentreffen zum Thema Missbrauch im Vatikan bekannt. Erst vor wenigen Tagen hatte Papst Franziskus auch Missbrauch von Nonnen durch Geistliche eingeräumt.
 
