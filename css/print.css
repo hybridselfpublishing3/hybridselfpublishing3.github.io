@@ -13,13 +13,14 @@ src: url('fonts/blackened-regualr.woff2') format('woff2'); }
 }
 
 span.webblack {
- font-family: blackened-regular;
-  color: #000000;
+font-family: inherit;
+background-color: transparent;
 }
 
 span.printblack {
  font-family: blackened-regular;
   color: #000000;
+  background-color: #000000;
 }
 
 .content {
