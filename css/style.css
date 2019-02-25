@@ -109,6 +109,7 @@ nav ul li a:hover {
 /* Zensur */
 span.webblack {
   font-family: 'censorship.woff';
+  font-style: none;
   color: #000;
 }
 
