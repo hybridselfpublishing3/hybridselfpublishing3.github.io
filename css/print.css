@@ -12,15 +12,15 @@ src: local('fonts/blackened-regular.woff2') format('woff2'); }
   padding-bottom: 100px;
 }
 
+
 span.webblack {
-font-family: inherit;
-background-color: transparent;
+  background-color: transparent;
 }
 
 span.printblack {
- font-family: inherit;
-background-color: #000000;
+  background-color: #000000;
 }
+
 
 .content {
   page-break-before: always;
