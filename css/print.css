@@ -4,7 +4,7 @@
 
 @font-face {
 font-family: 'blackened-regular';
-src: local('fonts/blackened-regualr.woff2') format('woff2'); }
+src: local('fonts/blackened-regular.woff2') format('woff2'); }
 
 .hero {
   background: transparent;
@@ -20,7 +20,6 @@ background-color: transparent;
 span.printblack {
  font-family: blackened-regular;
   color: #000000;
-  background-color: #000000;
 }
 
 .content {
