@@ -20,7 +20,7 @@ background-color: transparent;
 span.printblack {
  font-family: blackened-regular;
   color: #000000;
-  ;
+  background-color: #000000;
 }
 
 .content {
