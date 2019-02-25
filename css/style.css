@@ -7,6 +7,13 @@
   src: url('../fonts/blackened-regular.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'censorship.woff';
+  src: url('../fonts/censorship.woff') format('woff');
+}
+
+
+
 * {
   margin: 0;
   padding: 0;
@@ -101,7 +108,7 @@ nav ul li a:hover {
 
 /* Zensur */
 span.webblack {
-  font-family: 'blackened-regular';
+  font-family: 'censorship.woff';
   color: #000;
 }
 
