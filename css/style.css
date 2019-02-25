@@ -4,7 +4,7 @@
 
 @font-face {
 font-family: 'blackened-regular';
-src: local('fonts/blackened-regualr.woff2') format('woff2'); }
+src: local('fonts/blackened-regular.woff2') format('woff2'); }
 
 * {
   margin: 0;
@@ -102,7 +102,6 @@ nav ul li a:hover {
 span.webblack {
   font-family: blackened-regular;
   color: #000000;
-  background-color: #000000;
 }
 
 span.printblack {
