@@ -6,6 +6,9 @@
 
 ### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
 - Dateiformate (E-Book, PDF, Leseprobe, etc), Webformate (Blog-Einräge, Webseiten, Webdesign, Lesekomfort, Links, etc.)
+- https://link.springer.com/chapter/10.1007/978-3-8349-9409-7_1
+- https://books.google.de/books?hl=de&lr=&id=55ZLCgAAQBAJ&oi=fnd&pg=PP1&dq=definition+digitale+publikation&ots=Wuw0UT9iWP&sig=TSlKjQ4srFoHmT43lPKc2rGGGe8#v=onepage&q=definition%20digitale%20publikation&f=false
+-https://edoc.hu-berlin.de/bitstream/handle/18452/9602/8.pdf?sequence=1
     
 ### 1.1 Möglichkeiten der jeweiligen Publikationsmethoden im Bezug auf die Zugänglichkeit und Verfügbarkeit
 - Einstufung der Veröffentlichungmethoden von stark eingeschränkt bis öffentlich zugänglich
@@ -48,6 +51,15 @@
 ##### Quellen:
 
 Internet und Demokratie: http://www.rainer-rilling.de/blog/wp-content/uploads/wsi.pdf
+
+
+------------------------------------------
+
+
+
+### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
+
+Definition e-Book: https://de.wikipedia.org/wiki/E-Book
 
 Kommunikation im Internet: https://books.google.de/books?hl=de&lr=&id=Qwh_qYbCcCQC&oi=fnd&pg=PR1&dq=internet+%C3%B6ffentliche+raum&ots=CnclK2MQVs&sig=JeLfZqzisOMyFGlu3jWd-E7a64w#v=onepage&q=internet%20%C3%B6ffentliche%20raum&f=false
 
