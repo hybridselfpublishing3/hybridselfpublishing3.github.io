@@ -13,6 +13,10 @@ span.webblack {
   font-family: inherit;
 }
 
+span.webwhite {
+  font-family: inherit;
+}
+
 span.printblack {
   font-family: 'censorship.woff';
   font-style: none;
