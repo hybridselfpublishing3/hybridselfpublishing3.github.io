@@ -134,7 +134,7 @@ span.printblack {
   font-family: 'Karla', sans-serif;
   font-weight: 700;
   font-size: 30px;
-  color: #1b1b1b;
+  color:#000000;
   background-color: #FFFFFF;
   width: 100%;
   margin: 0;
@@ -158,7 +158,7 @@ span.printblack {
 
 .hero1 h3 {
   font-family: 'Karla', sans-serif;
-  color: #585858;
+  color: #000000;
   text-decoration: none;
   font-size: 18px;
   font-weight: 600;
@@ -171,7 +171,7 @@ span.printblack {
 
 .hero1 p {
    font-family: 'Karla', sans-serif;
-  color: #585858;
+  color: #000000;
   text-decoration: none;
   font-size: 14px;
   font-weight: 400;
@@ -182,26 +182,6 @@ span.printblack {
   padding-bottom: 10px;
 }
 
-.hero1 a {
-  font-family: 'Karla', sans-serif;
-  color: #FFFFFF;
-  text-decoration: none;
-  font-size: 30px;
-  font-weight: 800;
-  line-height: 50px;
-  display: block;
-  text-align: center;
-  padding-top: 30px;
-  padding-bottom: 10px;
-}
-  
-
-.hero1 a:active {
-  color: #FFFFFF;
-}
-.hero1 a:hover {
-  color: #848484;
-}
   
 
 
@@ -234,21 +214,20 @@ span.printblack {
   line-height: 30px;
   display: block;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 
 .hero2 p {
    font-family: 'Karla', sans-serif;
   color: #FFFFFF;
-  text-decoration: uppercase;
   font-size: 14px;
   font-weight: 400;
   line-height: 18px;
   display: block;
-  text-align: center;
-  padding-top: 5px;
+  text-align: right;
+  padding-top: 50px;
   padding-bottom: 10px;
    width: 60%;
 }
