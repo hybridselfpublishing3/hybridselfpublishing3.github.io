@@ -217,6 +217,7 @@ span.printblack {
   padding-bottom: 300px;
 } 
   
+
 .hero2 h1 {
   text-align: center;
   line-height: 50px;
@@ -254,6 +255,47 @@ span.printblack {
   color: #FFFFFF;
 }
 .hero2 a:hover {
+  color: #848484;
+}
+
+
+.hero3 h1 {
+  text-align: center;
+  line-height: 50px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.hero3 h3 {
+  font-family: 'EB Garamond', serif;
+  color: #585858;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 30px;
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.hero3 a {
+  font-family: 'EB Garamond', serif;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 50px;
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.hero3 a:active {
+  color: #FFFFFF;
+}
+.hero3 a:hover {
   color: #848484;
 }
 
