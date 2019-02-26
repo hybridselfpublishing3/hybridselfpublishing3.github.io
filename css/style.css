@@ -242,7 +242,7 @@ span.printblack {
 .hero2 p {
    font-family: 'Karla', sans-serif;
   color: #FFFFFF;
-  text-decoration: none;
+  text-decoration: uppercase;
   font-size: 14px;
   font-weight: 400;
   line-height: 18px;
