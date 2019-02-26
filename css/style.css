@@ -43,6 +43,17 @@ p.autor {
   font-size: 22px;
 }
 
+/*Trennlinie*/
+
+hr { 
+    width: 30%; 
+    height: 5px; 
+    margin: 0 auto;
+    color: #BDBDBD;
+    background: #dfac20;
+}
+
+
 /* Quellenangabenlink */
 a.source {
   font-size: 10px;
