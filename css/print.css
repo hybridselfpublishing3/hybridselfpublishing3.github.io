@@ -87,7 +87,11 @@ display: block;
   color: #000;
 }
 
-.hero2 h2 h3 {
+.hero2 h2 {
+  color: #000000;
+}
+
+.hero2 h3 {
   color: #000000;
 }
 
