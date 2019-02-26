@@ -61,7 +61,7 @@ display: block;
 .hero1 h1 {
   text-align: center;
   line-height: 60px;
-  padding-top: 10px;
+  padding-top: 100px;
   padding-bottom: 30px;
 }
 
@@ -87,10 +87,14 @@ display: block;
   color: #000;
 }
 
-.hero2 h2 h3 p {
+.hero2 h2 h3 {
   color: #000000;
 }
 
+.hero2 p {
+  text-align: left;
+  color: #000000;
+}
 
 .hero3 h1 {
   text-align: center;
