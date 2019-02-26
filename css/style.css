@@ -209,7 +209,7 @@ span.printblack {
   font-family: 'Karla', sans-serif;
   font-weight: 700;
   font-size: 30px;
-  color: #1b1b1b;
+  color: #FFFFFF;
   background-color: #000000;
   width: 100%;
   margin: 0;
@@ -227,7 +227,7 @@ span.printblack {
 
 .hero2 h3 {
   font-family: 'EB Garamond', serif;
-  color: #585858;
+  color: #FFFFFF;
   text-decoration: none;
   font-size: 25px;
   font-weight: 600;
@@ -237,6 +237,22 @@ span.printblack {
   padding-top: 5px;
   padding-bottom: 10px;
 }
+
+
+.hero2 p {
+   font-family: 'Karla', sans-serif;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+
 
 .hero2 a {
   font-family: 'EB Garamond', serif;
