@@ -63,15 +63,18 @@ Internet und Demokratie: http://www.rainer-rilling.de/blog/wp-content/uploads/ws
 
 ### Einleitung
 
-Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freiheiten, im Bezug auf die Themenauswahl, die Gestaltung und die technische Umsetzung und biergen somit eine verstärkte Notwendigkeit eine bewusste Auswahl für das entsprechende Publikationsmedium zu treffen. Das Internet bietet, neben verschiedenen Kommunikationsdiensten, einen bidirektionalen Austausch von Inhalten, die auf unterschiedlichste Weise zur Verfügung gestellt und abgerufen werden können. Trotz der scheinbar unendlichen Datenmengen ist der Prozess, Inhalte nach persönlichem Interesse zu filtern und zu erschließen vergleichsweise einfach. Die Zugänglichkeit und der benutzerfreundliche Konsum von digitalen Inhalten sind dabei vom jeweiligen Publikationsmedium abhängig. Im Umkerschluss muss dieses auf die Publikation abgestimmt und gezielt gestaltet werden, um eine gewisse Qualitätssicherung des Inhalts gewährleisten zu können. Desweiteren setzt eine
-
-Gedanken zum KOnzept
-
-
-
+Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freiheiten, im Bezug auf die Themenauswahl, die Gestaltung und die technische Umsetzung und biergen somit eine verstärkte Notwendigkeit eine bewusste Auswahl für das entsprechende Publikationsmedium zu treffen. Das Internet bietet, neben verschiedenen Kommunikationsdiensten, einen bidirektionalen Austausch von Inhalten, die auf unterschiedlichste Weise zur Verfügung gestellt und abgerufen werden können. Trotz der scheinbar unendlichen Datenmengen ist der Prozess, Inhalte nach persönlichem Interesse zu filtern und zu erschließen vergleichsweise einfach. Die Zugänglichkeit und der benutzerfreundliche Konsum von digitalen Inhalten sind dabei vom jeweiligen Publikationsmedium abhängig. Im Umkerschluss muss dieses auf die Publikation abgestimmt und gezielt gestaltet werden, um eine gewisse Qualitätssicherung des Inhalts gewährleisten zu können. Desweiteren ist ein Konzept des Selbstpublizierers vorauszusetzen, welches die gewünschte Handhabung des Inhaltes definiert. 
 
 
 ### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
+
+Bleibt man im Medium Internet, bieten dort Plattformen wie Lulu, epubli oder Bookwire, unter unterschiedlichen Geschäftmodellen, Methoden und Hilfen bei der Selbstpublikation an. 
+
+- Erst die kommerziellen Plattformen Kindle, Amazon, etc.
+
+http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
+
+
 
 Definition e-Book: https://de.wikipedia.org/wiki/E-Book
 
