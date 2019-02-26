@@ -30,14 +30,22 @@ span.printblack {
   page-break-after: always;
 }
 
+#info1,
+#info2,
+#info3 {
+  margin-top: 100px;
+  margin-bottom: 30px;
+
+
+
 #content1,
 #content2 {
-  margin-top: 100px;
+  margin-top: 30px;
   margin-bottom: 100px;
 }
 
 #content3 {
-  margin-top: 100px;
+  margin-top: 30px;
   margin-bottom: 20px;
 }
 
