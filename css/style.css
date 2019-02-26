@@ -277,7 +277,7 @@ span.printblack {
 
 .hero3 a {
   font-family: 'Karla', sans-serif;
-  color: #FFFFFF;
+  color: #000000;
   text-decoration: none;
   font-size: 30px;
   font-weight: 800;
@@ -289,7 +289,7 @@ span.printblack {
 }
 
 .hero3 a:active {
-  color: #FFFFFF;
+  color: #000000;
 }
 .hero3 a:hover {
   color: #848484;
