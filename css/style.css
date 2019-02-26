@@ -264,6 +264,17 @@ span.printblack {
 }
 
 
+.hero3 {
+  font-family: 'Karla', sans-serif;
+  color:#000000;
+  background-color: #FFFFFF;
+  width: 100%;
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 300px;
+} 
+  
+
 .hero3 h1 {
   text-align: center;
   line-height: 50px;
