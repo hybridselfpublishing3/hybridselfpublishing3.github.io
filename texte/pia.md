@@ -55,6 +55,20 @@ Internet und Demokratie: http://www.rainer-rilling.de/blog/wp-content/uploads/ws
 
 ------------------------------------------
 
+# Das Internet als Publikationsmedium
+
+## Untersuchung der gestalterischen Publikationsmethoden von digital/hybrid Publishing sowie den jeweiligen Einfluss auf den veröffentlichten Inhalt im Internet.
+
+*Pia-Maria Michnik*
+
+### Einleitung
+
+Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freiheiten, im Bezug auf die Themenauswahl, die Gestaltung und die technische Umsetzung und biergen somit eine verstärkte Notwendigkeit eine bewusste Auswahl für das entsprechende Publikationsmedium zu treffen. Das Internet bietet, neben verschiedenen Kommunikationsdiensten, einen bidirektionalen Austausch von Inhalten, die auf unterschiedlichste Weise zur Verfügung gestellt und abgerufen werden können. Trotz der scheinbar unendlichen Datenmengen ist der Prozess, Inhalte nach persönlichem Interesse zu filtern und zu erschließen vergleichsweise einfach. Die Zugänglichkeit und der benutzerfreundliche Konsum von digitalen Inhalten sind dabei vom jeweiligen Publikationsmedium abhängig. Im Umkerschluss muss dieses auf die Publikation abgestimmt und gezielt gestaltet werden, um eine gewisse Qualitätssicherung des Inhalts gewährleisten zu können. Desweiteren setzt eine
+
+Gedanken zum KOnzept
+
+
+
 
 
 ### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
