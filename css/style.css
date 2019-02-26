@@ -123,6 +123,13 @@ span.webblack {
   color: #000;
 }
 
+span.webwhite {
+  font-family: 'censorship.woff';
+  font-style: none;
+  color: #FFFFFF;
+}
+
+
 span.printblack {
   /* leer */
 }
