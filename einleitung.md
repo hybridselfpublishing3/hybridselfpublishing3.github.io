@@ -13,7 +13,6 @@ Der Weg, der hier vorgeschlagen wurde entsprach nicht dem klassischen Gang, dem 
 <br>
 Diese kleine Seite will sich vorrangig mit Zensur beschäftigen. Auch wenn im Westen im Vergleich zum Rest der Welt Informationen nahezu uneingeschränkt zirkulieren (können), ist durch gezielte Missinformation, Datendiebstahl oder durch politische Bestrebungen die Informationsfreiheit im Netz bedroht.
 <br>
-Visuell soll durch die Schwärzung die Zensur hervorgehoben werden. Ästhetisch erinnert das Unkenntlichmachen des Textes immer an eine "Geheimdienstaktenschwärzung". In der Geschichte wurden Bücher meist ganzheitlich zensiert, indem sie verbrannt, zerstört oder mit deutlichen Kürzungen wiederveröffentlicht wurden. Und dennoch ist durch die Kürzung einzelner Wörter eine deutliche Einbuße an Klarheit. Der Weg zur Wiedergewinnung des zensierten Wissens ist durch den Weg des Selbstpublizierens möglich. Durch den Akt des Druckens gewinnt man nicht nur buchstäblich sondern auch praktisch die Deutungshoheit über Inhalt und Form wieder. Zu einem Bewussten 
-  
+Visuell soll durch die Schwärzung die Zensur hervorgehoben werden. Ästhetisch erinnert das Unkenntlichmachen des Textes immer an eine "Geheimdienstaktenschwärzung". In der Geschichte wurden Bücher meist ganzheitlich zensiert, indem sie verbrannt, zerstört oder mit deutlichen Kürzungen wiederveröffentlicht wurden. Und dennoch ist durch die Kürzung einzelner Wörter eine deutliche Einbuße an Klarheit. Der Weg zur Wiedergewinnung des zensierten Wissens ist durch den Weg des Selbstpublizierens möglich. Durch den Akt des Druckens gewinnt man nicht nur buchstäblich sondern auch praktisch die Deutungshoheit über Inhalt und Form wieder.
 
 </p>
