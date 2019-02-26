@@ -58,19 +58,52 @@ span.printblack {
 display: block;
 }
   
-.hero h1 {
+.hero1 h1 {
   text-align: center;
   line-height: 50px;
   padding-top: 10px;
   padding-bottom: 30px;
 }
 
-.hero a,
-.hero a:active {
+.hero1 a,
+.hero1 a:active {
   color: #000;
 }
 
-.hero h3 {
+.hero1 h3 {
+  color: #000;
+}
+
+.hero2 h1 {
+  text-align: center;
+  line-height: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.hero2 a,
+.hero1 a:active {
+  color: #000;
+}
+
+.hero2 h2 h3 p {
+  color: #000;
+}
+
+
+.hero3 h1 {
+  text-align: center;
+  line-height: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.hero3 a,
+.hero1 a:active {
+  color: #000;
+}
+
+.hero3 h2 h3 p {
   color: #000;
 }
 
