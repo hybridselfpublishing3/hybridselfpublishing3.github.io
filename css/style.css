@@ -162,6 +162,19 @@ span.printblack {
   padding-bottom: 10px;
 }
 
+.hero1 p {
+   font-family: 'Karla', sans-serif;
+  color: #585858;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 18px;
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
 .hero1 a {
   font-family: 'Karla', sans-serif;
   color: #FFFFFF;
@@ -174,6 +187,7 @@ span.printblack {
   padding-top: 30px;
   padding-bottom: 10px;
 }
+  
 
 .hero1 a:active {
   color: #FFFFFF;
