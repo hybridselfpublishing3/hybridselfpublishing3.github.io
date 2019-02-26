@@ -130,7 +130,61 @@ span.printblack {
 
 
 /* HERO */
-.hero {
+.hero1 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #1b1b1b;
+  background-color: #FFFFFF;
+  width: 100%;
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 300px;
+} 
+  
+.hero1 h1 {
+  text-align: center;
+  line-height: 50px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.hero1 h3 {
+  font-family: 'Karla', sans-serif;
+  color: #585858;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 30px;
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.hero1 a {
+  font-family: 'Karla', sans-serif;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 50px;
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.hero1 a:active {
+  color: #FFFFFF;
+}
+.hero1 a:hover {
+  color: #848484;
+}
+  
+
+
+.hero2 {
   font-family: 'Karla', sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -142,14 +196,14 @@ span.printblack {
   padding-bottom: 300px;
 } 
   
-.hero h1 {
+.hero2 h1 {
   text-align: center;
   line-height: 50px;
   padding-top: 50px;
   padding-bottom: 30px;
 }
 
-.hero h3 {
+.hero2 h3 {
   font-family: 'EB Garamond', serif;
   color: #585858;
   text-decoration: none;
@@ -162,7 +216,7 @@ span.printblack {
   padding-bottom: 10px;
 }
 
-.hero a {
+.hero2 a {
   font-family: 'EB Garamond', serif;
   color: #FFFFFF;
   text-decoration: none;
@@ -175,13 +229,14 @@ span.printblack {
   padding-bottom: 10px;
 }
 
-.hero a:active {
+.hero2 a:active {
   color: #FFFFFF;
 }
-.hero a:hover {
+.hero2 a:hover {
   color: #848484;
 }
-  
+
+
 
 /* Bilder */
 .content img {
