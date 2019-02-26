@@ -231,6 +231,7 @@ display: none;
   font-weight: 700;
   font-size: 22px;
   line-height: 32px;
+  color: #424242;
   width: 80%;
   margin: 0 auto;
 }
@@ -240,7 +241,8 @@ display: none;
   font-weight: 400;
   font-size: 18px;
   line-height: 28px;
-  width: 40%;
+  color: #424242;
+  width: 80%;
   margin: 0 auto;
 }
   
@@ -251,7 +253,8 @@ display: none;
   font-style: italic;
   font-size: 16px;
   line-height: 24px;
-  width: 40%;
+  color: #424242;
+  width: 80%;
   margin: 0 auto;
 }
   
@@ -260,7 +263,8 @@ display: none;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  width: 40%;
+  color: #424242;
+  width: 80%;
   margin: 0 auto;
 }
    
