@@ -3,7 +3,10 @@
 }
 
 @page {
-  margin: 2.5cm;
+  margin-top: 2.5cm;
+  margin-bottom: 2.5cm;
+  margin-left: 1.5cm;
+  margin-right: 1.5cm;
 }
 
 .hero {
@@ -86,7 +89,8 @@ display: block;
 .hero2 h1 {
   text-align: center;
   color: #000000;
-  line-height: 40px;
+  font-size: 25
+  line-height: 30px;
   padding-top: 10px;
   padding-bottom: 30px;
 }
