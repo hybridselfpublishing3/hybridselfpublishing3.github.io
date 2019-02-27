@@ -26,20 +26,6 @@ font-size: 16px
 }
 
 
-.flexbox {
-  display: inline-flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: flex-start;
-}
-
-p.spalte1 p.spalte2 {
-  order: 2;
-  flex-grow: 1;
-  flex-basis: auto;
-   align-self: auto;
-}
 
 /* Hilfsklassen */
 .hide {
@@ -246,15 +232,15 @@ font-family: 'Inconsolata', monospace;
 .hero2 p {
 font-family: 'Inconsolata', monospace;
   color: #FFFFFF;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: 400;
-  line-height: 20px;
+  line-height: 70px;
   display: block;
-  text-align: center;
+  text-align: left;
   padding-top: 50px;
   padding-bottom: 10px;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 
