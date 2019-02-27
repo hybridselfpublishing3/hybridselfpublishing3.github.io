@@ -163,3 +163,7 @@ nav {
   line-height: 15px;
   color: #2E2E2E;
 }
+
+#content4 h3 p {
+font-family: 'Inconsolata', monospace;
+}
