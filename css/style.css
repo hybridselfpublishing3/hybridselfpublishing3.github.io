@@ -255,7 +255,7 @@ a.scroll-down span {
   flex-basis: 0;
   -ms-flex-positive: 1;
   flex-grow: 1;
-  max-width: 20%;
+  max-width: 30%;
 }
 
 .text-container .text-full,
@@ -269,11 +269,11 @@ a.scroll-down span {
 }
 
 .text-container .text-full {
-  max-width: 80%;
+  max-width: 70%;
 }
 
 .text-container .text-half {
-  max-width: 40%;
+  max-width: 35%;
 }
 
 .text-container .text-full p,
