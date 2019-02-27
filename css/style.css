@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Kadwa:400,700|Karla:400,400i,700,700i|Lora:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i|EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i');
-
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 @font-face {
   font-family: 'blackened-regular';
@@ -20,7 +20,7 @@
 }
 
 body {
-  font-family: 'Lucida Console';
+  font-family: 'Incosolata';
   font-weight: 400;
   font-size: 16px
 }
