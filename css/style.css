@@ -36,7 +36,9 @@ body {
 
 .item {
   order: 2;
+  flex-grow: 1;
   flex-basis: auto;
+   align-self: auto;
 }
 
 /* Hilfsklassen */
