@@ -1,25 +1,23 @@
-# Literaturzensur im digitalen Zeitalter 
+# Self-Publishing // Zensur und Autorenschaft im Internet
 *Elena Wiener*
-
-## Self-Publishing // Zensur und Autorenschaft im Internet
 
 Mit der Entwicklung des digitalen Publizierens durch Print-on-demand- und Ebook-Angeboten, haben sich auch die Möglichkeiten für (verlags-)unabhängiges Publizieren erweitert. Zum einen gibt es erweiterte Zugriffsmöglichkeiten auf wissenschaftliche Texte, aber auch der Selfpublishing-Sektor ist stark gewachsen. So ermöglichen große Plattformen wie Amazon, aber auch kleine unabhängige wie Lulu oder XX das Publizieren eigener Arbeiten ohne die Bestätigung und Redigierung eines Verlags. Dadurch entsteht der vermeintliche Eindruck, jeder könne frei und unabhängig publizieren. Bei näherer Betrachtung, lässt sich allerdings feststellen, dass derm „Digitalen AutorIn“ nur oberflächlich eine Freiheit geboten wird, die durch verschiedene Faktoren eingeschränkt ist und unter Kontrolle und Zensur steht. Dabei werde ich im Folgenden vor allem auf drei Faktoren eingehen: Mechanismen des Internets, Kontrolle durch den Staat und Selbstzensur.
 
-#Architektur des Internets: Abhängigkeit von Plattformen und Algorithmen
+## Architektur des Internets: Abhängigkeit von Plattformen und Algorithmen
 
 Um Teil des digitalen Buchmarktes zu sein, veröffentlichen die meisten Selfpublisher ihre Werke auf Plattformen, die die notwendigen technischen Aspekte für eine Veröffentlichung übernehmen.  Dadurch ist der Publisher nicht nur von Algorithmen abhängig, die darüber entscheiden, wie schnell und mit welcher Reichweite ihr Werk einer unbekannten Leserschaft vorgeschlagen wird, weiter noch unterliegt dadurch das literarische Werk den „Terms & Conditions“ der Plattform, die eine vertragliche Vereinbarung zwischen der Plattform und dem User ist, in welchem Rahmen seine Veröffentlichungen stattfinden dürfen. Es findet also nicht nur eine Datenuntersuchung des Autor*innen und seinen Leser*innen statt, sondern auch gesetzliche Steuerung. Durch die Zugriffsrechte einer Plattform, gibt der User demzufolge auch seine unbegrenzte Freiheit ab. So schreibt auch Mark Leonard, Direktor des European Council on Foreigns Relations: „Doch jenseits derartiger Entwicklungen mit Knalleffekt besteht eine allgemeinere Angst vor der Fähigkeit von Tech-Unternehmen, Informationen zu kontrollieren, die Menschen erhalten. In Anbetracht dessen, dass die geheimen Algorithmen der großen Technologiefirmen bestimmen, wie wir die Welt wahrnehmen, wird es für die Menschen zunehmend schwierig, bewusste Entscheidungen zu treffen – was Philosophen als grundlegend für den freien Willen erkennen.“ Demzufolge nimmt die Plattform nicht nur die Freiheit des Autoren (und des Lesenden), sondern kontrolliert ihn zeitgleich. Weiter Leonard: „Im digitalen Zeitalter besteht die größte Gefahr nicht darin, dass die Technologie freie und autokratische Gesellschaften zunehmend gegeneinander aufbringt, sondern vielmehr darin, dass die schlimmsten Befürchtungen von Orwell und Huxley in beiden Systemen manifest werden und eine andere Art von Dystopie erzeugen. Da man vielen der sehnlichsten Wünsche der Bürger entspricht, werden sie die Illusion von Freiheit und Ermächtigung haben. In Wahrheit allerdings werden ihr Leben, die von ihnen konsumierten Informationen und die Entscheidungen, die sie treffen, von Algorithmen und Plattformen bestimmt, die unter der Kontrolle nicht rechenschaftspflichtiger Unternehmen oder staatlicher Eliten stehen.“ Inwiefern Plattformen als Unternehmen kontrollieren, habe ich soeben erläutert. Doch auch die Plattformen unterstehen einer staatlichen Machtkontrolle, worauf ich im Folgenden eingehe.
 
-# Zugang und Zensur des Internets als Machtkontrolle durch die Regierung
+## Zugang und Zensur des Internets als Machtkontrolle durch die Regierung
 
 Limitierung während des Veröffentlichungsprozesses im Internet findet auch durch staatliche Gesetze und Kontrollen statt. So ist es in Deutschland nicht erlaubt, gewaltverherrlichende, nationalistische sowie (kinder-)pornografische Inhalte zu veröffentlichen. Die Konsequenz ist Zensur durch Site-Blocking oder Contentfiltering. Weiternoch greifen aber auch Sicherheitsdienste wie die NSA in die Strukturen ein und bedienen sich der Nutzerdaten. Durch diese Überwachung und Kontrolle der Inhalte, ist 
 
 
-# Selbstzensur als Urheberschutz
+## Selbstzensur als Urheberschutz
 
 Aufgrund von Sperrung seitens der Plattform oder des Staats zensieren einige Autoren ihre Inhalte selbst. (Ausführung) Aber die freie Zugänglichkeit zu fremden Inhalten führt auch zu deren unzitierten Weiterverbreitung. In der Welt des Internets, in der auf diversen Kanälen – von Social Media Plattformen über Blogs hinzu Self-Publishing-Plattformen - Inhalte mit einem Mausklick geteilt werden können, steigt die Plagiatsgefahr. Inhalte werden kopiert, mit dem eigenen Namen versehen und weiter verbreitet. Auch im wissenschaftliche Kontext ist das ein Problem, da vor allem im Bereich der Co-Autorenschaft Probleme bei der Namensnennung aufkamen. (Beispiel)
 „Literary works might function the same way that memes do today on the Web, spreading for a short period, often unsigned and unauthored, only to be supplanted by the next ripple. While the author won't die, we might begin to view authorship in a more conceptual way: Perhaps the best authors of the future will be ones who can write the best programs with which to manipulate, parse, and distribute language-based practices.“
 
-# Conclusion
+## Conclusion
 
 
 
