@@ -1,5 +1,5 @@
 
-# Wie viel Self stckt in deiner Publikation?
+# Wie viel Self steckt in deiner Publikation?
 
 ## Selfpublishing Plattformen im Vergleich:
 
