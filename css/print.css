@@ -2,6 +2,10 @@
   display: none;
 }
 
+@page {
+  margin: 2cm;
+}
+
 .hero {
   background: transparent;
   padding-top: 300px;
