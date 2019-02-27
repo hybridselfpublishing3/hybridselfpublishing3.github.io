@@ -120,8 +120,9 @@ display: block;
 
 .hero3 h1 {
   text-align: center;
-  line-height: 60px;
-  padding-top: 10px;
+  color: #000000;
+  font-size: 25;
+  line-height: 50px;
   padding-bottom: 30px;
 }
 
