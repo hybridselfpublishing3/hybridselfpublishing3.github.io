@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Kadwa:400,700|Karla:400,400i,700,700i|Lora:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i|EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i');
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
 
 @font-face {
   font-family: 'blackened-regular';
@@ -20,9 +20,9 @@
 }
 
 body {
-  font-family: 'Incosolata';
-  font-weight: 400;
-  font-size: 16px
+font-family: 'Inconsolata', monospace;
+font-weight: 400;
+font-size: 16px
 }
 
 
@@ -154,7 +154,7 @@ span.printblack {
 
 /* HERO */
 .hero1 {
-   font-family: 'Lucida Console', sans-serif;
+font-family: 'Inconsolata', monospace;
   font-weight: 700;
   font-size: 50px;
   color:#000000;
@@ -181,7 +181,7 @@ span.printblack {
 }
 
 .hero1 h3 {
-  font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color: #000000;
   text-decoration: none;
   font-size: 18px;
@@ -194,7 +194,7 @@ span.printblack {
 }
 
 .hero1 p {
-   font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color: #000000;
   text-decoration: none;
   font-size: 14px;
@@ -210,7 +210,7 @@ span.printblack {
 
 
 .hero2 {
-  font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   font-weight: 700;
   font-size: 30px;
   color: #FFFFFF;
@@ -230,7 +230,7 @@ span.printblack {
 }
 
 .hero2 h3 {
-  font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color: #FFFFFF;
   text-decoration: none;
   font-size: 25px;
@@ -244,7 +244,7 @@ span.printblack {
 
 
 .hero2 p {
-   font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color: #FFFFFF;
   font-size: 18px;
   font-weight: 400;
@@ -260,7 +260,7 @@ span.printblack {
 
 
 .hero2 a {
- font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color: #FFFFFF;
   text-decoration: none;
   font-size: 30px;
@@ -281,7 +281,7 @@ span.printblack {
 
 
 .hero3 {
-  font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color:#000000;
   background-color: #FFFFFF;
   width: 100%;
@@ -299,7 +299,7 @@ span.printblack {
 }
 
 .hero3 h3 {
-  font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color: #585858;
   text-decoration: none;
   font-size: 25px;
@@ -312,7 +312,7 @@ span.printblack {
 }
 
 .hero3 a {
-  font-family: 'Karla', sans-serif;
+font-family: 'Inconsolata', monospace;
   color: #000000;
   text-decoration: none;
   font-size: 30px;
