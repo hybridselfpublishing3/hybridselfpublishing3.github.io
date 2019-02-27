@@ -142,63 +142,35 @@ span.printblack {
 .hero1 {
 font-family: 'Inconsolata', monospace;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 70px;
   color:#000000;
   background-color: #FFFFFF;
   width: 100%;
   margin: 0;
   padding-top: 100px;
   padding-bottom: 270px;
-} 
+}
   
 .hero1 h1 {
-  text-align: center;
-  line-height: 60px;
-  padding-top: 50px;
-  padding-bottom: 30px;
-}
-
-.hero1 h2 {
-  text-size: 20px;
-  text-align: center;
-  line-height: 25px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-
-.hero1 h3 {
 font-family: 'Inconsolata', monospace;
-  color: #000000;
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 24px;
-  display: block;
-  text-align: center;
-  padding-top: 5px;
-  padding-bottom: 10px;
+  font-weight: 700;
+  font-size: 70px;
+  color:#000000;
+  background-color: #FFFFFF;
+  width: 100%;
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 270px;
 }
-
-.hero1 p {
-font-family: 'Inconsolata', monospace;
-  color: #000000;
-  text-decoration: none;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 18px;
-  display: block;
-  text-align: center;
-  padding-top: 5px;
-  padding-bottom: 10px;
-}
-
   
+
+
 
 
 .hero2 {
 font-family: 'Inconsolata', monospace;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 50px;
   color: #FFFFFF;
   background-color: #000000;
   width: 100%;
@@ -209,7 +181,7 @@ font-family: 'Inconsolata', monospace;
   
 
 .hero2 h1 {
-  font-size: 30px;
+  font-size: 50px;
   text-align: center;
   line-height: 50px;
   padding-top: 50px;
