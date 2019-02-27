@@ -34,7 +34,7 @@ body {
   align-items: flex-start;
 }
 
-.item {
+p.spalte1 p.spalte2 {
   order: 2;
   flex-grow: 1;
   flex-basis: auto;
