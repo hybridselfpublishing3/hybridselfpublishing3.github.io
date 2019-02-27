@@ -18,7 +18,7 @@
 body {
   font-family: 'Inconsolata', monospace;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
   color: #000;
 }
@@ -27,6 +27,7 @@ body {
 p {
   margin-bottom: 1em;
 }
+
 h1,
 h2,
 h3,
@@ -44,7 +45,7 @@ hr {
 
 /* layout */
 .container {
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
 }
 
@@ -84,7 +85,28 @@ hr {
 }
 
 .web-only {
+  /* leer */
+}
 
+/* Zensur */
+.censored-web-black,
+.censored-web-white {
+  font-family: 'censorship';
+  font-style: normal;
+
+}
+.censored-web-black {
+  color: #000;
+}
+
+.censored-web-white {
+  color: #FFFFFF;
+}
+
+.censored-print-black {
+  font-family: inherit;
+  font-style: inherit;
+  color: inherit;
 }
 
 /* Hintergrundfarben */
@@ -101,8 +123,8 @@ hr {
 }
 
 /* Textgrößen */
-.font-size-70 {
-  font-size: 70px;
+.font-size-80 {
+  font-size: 80px;
 }
 .font-size-60 {
   font-size: 60px;
@@ -115,6 +137,9 @@ hr {
 }
 .font-size-30 {
   font-size: 30px;
+}
+.font-size-25 {
+  font-size: 25px;
 }
 
 /* Textstile */
@@ -160,16 +185,11 @@ hr {
 
 /* Bilder Gallerie */
 .image-container {
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
 
 .image-container .image {
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
-  -ms-flex-positive: 1;
   flex-grow: 1;
   max-width: 25%;
   padding: 10px;
@@ -246,8 +266,6 @@ a.scroll-down span {
   flex-grow: 1;
 
   font-family: 'EB Garamond', serif;
-  font-size: 20px;
-  line-height: 25px;
 }
 
 .text-container .text-full {
@@ -277,7 +295,6 @@ a.scroll-down span {
   background: #333;
 }
 
-
 p.autor {
   font-style: italic;
   font-weight: 600;
@@ -285,17 +302,9 @@ p.autor {
   margin-bottom: 1em!important;
 }
 
-
-/* Drucklink */
-a.print {
-  padding: 15px 80px;
-  color: #FFFFFF;
-  text-decoration: none;
-}
-
-a.print:hover {
-  color: #000000;
-  background: #FFFFFF;
+/* Footer */
+footer {
+  height: 50px;
 }
 
 /* textmakierung verbieten */
@@ -324,157 +333,4 @@ nav ul li a {
 nav ul li a:hover {
   color: #000000;
   background: #000000;
-}
-
-/* Zensur */
-.censored-web-black,
-.censored-web-white {
-  font-family: 'censorship';
-  font-style: normal;
-
-}
-.censored-web-black {
-  color: #000;
-}
-
-.censored-web-white {
-  color: #FFFFFF;
-}
-
-.censored-print-black {
-  font-family: inherit;
-  font-style: inherit;
-  color: inherit;
-}
-
-/* Bilder */
-.content img {
-  display: block;
-  max-width: 600px;
-  max-height: 400px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.content img.qr {
-  display: block;
-  max-width: 150px;
-  max-height: 150px;
-  padding-top: 150px;
-  padding-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Abstände für infobereich */
-#info1,
-#info2,
-#info3 {
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-
-/* Abstände für die Inhalte */
-#content1,
-#conten2 {
-  margin-top: 30px;
-  margin-bottom: 200px;
-}
-
-#content3 {
-  margin-top: 100px;
-  margin-bottom: 250px;
-}
-
-#content4 {
-  margin-top: 100px;
-  margin-bottom: 200px;
-}
-
-
-
-/*Inhalte der Infobox*/
-.box h2 {
-  font-family: 'Karla', sans-serif;
-  font-weight: 700;
-  font-size: 22px;
-  line-height: 32px;
-  color: #424242;
-  width: 80%;
-  margin: 0 auto;
-}
-
-.box h3 {
-  font-family: 'Karla', sans-serif;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
-  color: #424242;
-  width: 80%;
-  margin: 0 auto;
-}
-
-.box h4 {
-  font-family: 'Karla', sans-serif;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 16px;
-  line-height: 24px;
-  color: #424242;
-  width: 80%;
-  margin: 0 auto;
-}
-
-.box p {
-  font-family: 'Karla', sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #424242;
-  width: 80%;
-  margin: 0 auto;
-}
-
-/* Inhalte */
-.content h2 {
-  font-family: 'EB Garamond', serif;
-  font-size: 30px;
-  font-weight: 800;
-  line-height: 32px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-.content h3 {
-  font-family: 'EB Garamond', serif;
-  font-size: 26px;
-  font-weight: 600;
-  line-height: 28px;
-  width: 30%;
-  margin: 0 auto;
-}
-
-.content h4 {
-  font-family: 'EB Garamond', serif;
-  font-size: 18px;
-  font-weight: 400;
-  font-style: italic;
-  line-height: 26px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-.content p {
-  font-family: 'EB Garamond', serif;
-  font-size: 20px;
-  line-height: 25px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-/* Footer */
-footer {
-  height: 50px;
 }
