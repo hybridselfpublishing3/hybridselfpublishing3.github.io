@@ -182,7 +182,6 @@ hr {
   margin-bottom: 5rem;
 }
 
-
 /* Bilder Gallerie */
 .image-container {
   display: flex;
@@ -247,6 +246,7 @@ a.scroll-down span {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  margin-top: 20rem;
   margin-bottom: 20rem;
 }
 
