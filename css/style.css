@@ -1,14 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Kadwa:400,700|Karla:400,400i,700,700i|Lora:400,400i,700,700i');
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i|EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i');
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i');
 @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
 
 @font-face {
-  font-family: 'blackened-regular';
-  src: url('../fonts/blackened-regular.woff2') format('woff2');
-}
-
-@font-face {
-  font-family: 'censorship.woff';
+  font-family: 'censorship';
   src: url('../fonts/censorship.woff') format('woff');
 }
 
@@ -47,9 +42,9 @@ p.autor {
 
 /*Trennlinie*/
 
-hr { 
-    width: 30%; 
-    height: 1px; 
+hr {
+    width: 30%;
+    height: 1px;
     margin: 0 auto;
     color: #BDBDBD;
 }
@@ -120,13 +115,13 @@ nav ul li a:hover {
 
 /* Zensur */
 span.webblack {
-  font-family: 'censorship.woff';
+  font-family: 'censorship';
   font-style: none;
   color: #000;
 }
 
 span.webwhite {
-  font-family: 'censorship.woff';
+  font-family: 'censorship';
   font-style: none;
   color: #FFFFFF;
 }
@@ -150,7 +145,7 @@ font-family: 'Inconsolata', monospace;
   padding-top: 100px;
   padding-bottom: 270px;
 }
-  
+
 .hero1 h1 {
 font-family: 'Inconsolata', monospace;
   font-weight: 700;
@@ -162,7 +157,7 @@ font-family: 'Inconsolata', monospace;
   padding-top: 100px;
   padding-bottom: 270px;
 }
-  
+
 
 
 
@@ -177,8 +172,8 @@ font-family: 'Inconsolata', monospace;
   margin: 0;
   padding-top: 100px;
   padding-bottom: 300px;
-} 
-  
+}
+
 
 .hero2 h1 {
   font-size: 50px;
@@ -247,8 +242,8 @@ font-family: 'Inconsolata', monospace;
   margin: 0;
   padding-top: 100px;
   padding-bottom: 300px;
-} 
-  
+}
+
 
 .hero3 h1 {
   font-size: 30px;
@@ -342,10 +337,10 @@ font-family: 'Inconsolata', monospace;
 .printonly {
 display: none;
 }
-  
+
 
 /*Inhalte der Infobox*/
-  
+
  .box h2 {
   font-family: 'Karla', sans-serif;
   font-weight: 700;
@@ -365,8 +360,8 @@ display: none;
   width: 80%;
   margin: 0 auto;
 }
-  
-  
+
+
   .box h4 {
   font-family: 'Karla', sans-serif;
   font-weight: 400;
@@ -377,7 +372,7 @@ display: none;
   width: 80%;
   margin: 0 auto;
 }
-  
+
   .box p {
   font-family: 'Karla', sans-serif;
   font-weight: 400;
@@ -387,8 +382,8 @@ display: none;
   width: 80%;
   margin: 0 auto;
 }
-   
-  
+
+
 /* Inhalte */
 .content h2 {
   font-family: 'EB Garamond', serif;
