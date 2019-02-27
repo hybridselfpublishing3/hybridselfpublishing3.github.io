@@ -15,14 +15,13 @@
   padding-bottom: 100px;
 }
 
-
 span.webblack {
   font-family: inherit;
 }
 
 span.webwhite {
   font-family: inherit;
-    color: #000;
+  color: #000;
 }
 
 span.printblack {
@@ -31,13 +30,12 @@ span.printblack {
   color: #000;
 }
 
-
 .content {
   page-break-before: always;
   page-break-after: always;
 }
 
-.seitenumbruch {
+.pagebreak {
   page-break-before: always;
   page-break-after: always;
 }
@@ -48,7 +46,6 @@ span.printblack {
   margin-top: 100px;
   margin-bottom: 30px;
 }
-
 
 #content1,
 #content2 {
@@ -67,7 +64,7 @@ span.printblack {
 }
 
 .printonly {
-display: block;
+  display: block;
 }
 
 .hero1 h1 {
@@ -150,13 +147,11 @@ nav {
 }
 
 .content p {
-   font-size: 12px;
+  font-size: 12px;
   line-height: 16px;
 }
 
-
-
-  .box p {
+.box p {
   font-family: 'Karla', sans-serif;
   font-weight: 400;
   font-size: 12px;
@@ -165,5 +160,5 @@ nav {
 }
 
 #content4 h3 p {
-font-family: 'Inconsolata', monospace;
+  font-family: 'Inconsolata', monospace;
 }
