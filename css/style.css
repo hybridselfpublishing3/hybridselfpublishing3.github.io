@@ -262,8 +262,8 @@ a.scroll-down span {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  padding-top: 20rem;
-  padding-bottom: 20rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 
 .text-container .text-info {
@@ -358,6 +358,10 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+#text-pia .text-container {
+  padding-bottom: 0;
 }
 
 /* responsive */
