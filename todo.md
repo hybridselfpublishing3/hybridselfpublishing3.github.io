@@ -1,22 +1,23 @@
 # To Do
 
-*Elena
-*Pia
+#Elena
+#Pia
 
 Printbutton ganz ans Ende
 Zweite Seite für Infotext erstellen
 Einleitungstexte 2 Spalten
 Bilder verpixelt in der Webversion
-Content 1 und 2 zweizeilig (Print und Web)
+Content 1 und 2 zweizeilig (Print und Web
+https://code-bude.net/2013/10/30/bilder-verpixeln-in-javascript/
 
-*David
+#David
 
 Drucker mitbringen
 Chrome installieren und Treiber Drucker
 Druckerpateronen
 Schriftart austauschen
 
-Generell
+#Generell
 
 Stichhaltige Präsentation des Konzepts
 Benutzerfreundliches Ausdrucken
