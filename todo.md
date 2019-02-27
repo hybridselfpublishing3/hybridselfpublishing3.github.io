@@ -10,6 +10,8 @@ Bilder verpixelt in der Webversion
 Content 1 und 2 zweizeilig (Print und Web
 https://code-bude.net/2013/10/30/bilder-verpixeln-in-javascript/ //lässt sich sicher auch notfalls mit Photoshop machen.. also du musst dich nicht verausgaben für morgen, im Großen und Ganzen funktioniert die Seite :)
 
+- Ich hab die Seite aufgeräumt und optimiert ;)
+
 #David
 
 Drucker mitbringen
