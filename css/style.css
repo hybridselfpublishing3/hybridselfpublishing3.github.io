@@ -209,6 +209,7 @@ font-family: 'Inconsolata', monospace;
   
 
 .hero2 h1 {
+  font-size: 30px;
   text-align: center;
   line-height: 50px;
   padding-top: 50px;
@@ -278,9 +279,10 @@ font-family: 'Inconsolata', monospace;
   
 
 .hero3 h1 {
+  font-size: 30px;
   text-align: center;
   line-height: 50px;
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 30px;
 }
 
