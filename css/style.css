@@ -292,7 +292,7 @@ a.scroll-down span {
 }
 
 .button:hover {
-  background: #333;
+  color: #000;
 }
 
 p.autor {
@@ -300,6 +300,34 @@ p.autor {
   font-weight: 600;
   font-size: 22px;
   margin-bottom: 1em!important;
+}
+
+
+/* Navigation */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  background: #fff;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 15px 80px;
+  color: #000;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #000;
+  background: #000;
 }
 
 /* Footer */
@@ -315,22 +343,4 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-}
-
-/* Navigation */
-nav ul li {
-  list-style-type: none;
-  display: inline-block;
-}
-
-nav ul li a {
-  display: inline-block;
-  padding: 15px 80px;
-  color: #000000;
-  text-decoration: none;
-}
-
-nav ul li a:hover {
-  color: #000000;
-  background: #000000;
 }
