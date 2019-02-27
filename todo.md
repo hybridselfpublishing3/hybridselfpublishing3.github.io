@@ -6,7 +6,7 @@
 Printbutton ganz ans Ende
 Zweite Seite für Infotext erstellen
 Einleitungstexte 2 Spalten
-GridLayout Bilder( Web  Schwarz) ---> Bilder werden verpixelt
+Bilder verpixelt in der Webversion
 Content 1 und 2 zweizeilig (Print und Web)
 
 *David
