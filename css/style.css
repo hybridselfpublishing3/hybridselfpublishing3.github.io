@@ -272,8 +272,8 @@ a.scroll-down span {
   -ms-flex-positive: 1;
   flex-grow: 1;
   max-width: 30%;
-  font-size: 14px;
-  padding-right: 30px;
+  font-size: 12px;
+  padding-right: 50px;
 }
 
 .text-container .text-full,
