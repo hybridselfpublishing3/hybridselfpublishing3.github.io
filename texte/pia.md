@@ -68,15 +68,28 @@ Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freih
 
 ### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
 
-Bleibt man im Medium Internet, bieten dort Plattformen wie Xinxii, epubli oder Bookwire, unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation an.
-Je nach Anbieter schwanken die Produktionskosten und Honoare aber auch beim Service gibt es Unterschiede was Beartung und Unterstützung beim Marketing oder der Produktion, um die gewünschten Leser erreichen zu können. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle angeboten.  (vgl. 2013: Matting).
-Entscheidet man sich als Selbstpublizierender für eine solche Plattform 
+Als Selfpublishing wird allgemein die Methode des verlagsunabhängigen Veröffentlichens bezeichnet, bei der die jeweilige Autorin oder der jweilige Autor in Eigenregie die Produktion, den Vertrieb und das Marketing der eigenen Publikation, übernimmt. (Text aus dem Seminar als Quelle) 
+Zusätzlich wird bei der Selbstpublikation überwiegend die Methode, der Veröffentlichung von Inhalten über e-Book Formate aber auch Print on Demand (PoD), verwendet. Dies hängt mit den geringen Lager- und Produktionskosten zusammen (Quelle).
+Aber auch DIY Broschüren .... (Quelle aus Text aus Seminar).
+
+In der Studie 'Europäische SelfPublishing-Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich der Selfpublishing Plattform 'Books on Demand' wird dieser Prozess sehr deutlich beschrieben. BoD (2016: 3) erklärt zu Anfang: "Mit der Eröffnung des freien Zugangs zum Buchmarkt behalten Autoren im Self-Publishing die völlige inhaltliche, gestalterische
+und rechtliche Kontrolle über ihre Werke." 
+
+Bleibt man im Medium Internet, bieten dort Plattformen wie Xinxii, epubli oder Bookwire, unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation an. Je nach Anbieter schwanken die Produktionskosten und Honorare aber auch beim Service gibt es Unterschiede was Beartung und Unterstützung beim Marketing, um die gewünschten Leser erreichen zu können. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor wie z. B. Xinii, übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle auch für den möglichen Druck, angeboten (vgl. 2013: Matting).
 
 
+Rechte
 
-- Erst die kommerziellen Plattformen Kindle, Amazon, etc.
+
+2016 Books on Demand GmbH, Self Publishing Studie 'Europäische SelfPublishing - Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' (augerufen am 01.03.19): https://www.bod.de/fileadmin/user_upload_de_ch/Landingpages/Self-Publishing-Studie-2016/Europaeische_Self-Publishing-Studie-2016.pdf
+
+Haughland, Ann (2006). Opening the gates: Print on-demand publishing as cultural
+production. In: Publishing Research Quarterly
+
+BoD (2016: 3): "Das Ergebnis ist eine Demokratisierung des Verlagsgeschäfts, die Lesern eine große Titelvielfalt bis hinein in die kleinste thematische Nische und Autoren – ob nun neues Talent oder erfahrener Verlagsautor – ein spannendes Entwicklungs- und Gestaltungspotenzial bietet." 
 
 2013 Matting: http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
+
 
 
 
