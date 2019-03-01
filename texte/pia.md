@@ -68,11 +68,15 @@ Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freih
 
 ### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
 
-Bleibt man im Medium Internet, bieten dort Plattformen wie Lulu, epubli oder Bookwire, unter unterschiedlichen Geschäftmodellen, Methoden und Hilfen bei der Selbstpublikation an. 
+Bleibt man im Medium Internet, bieten dort Plattformen wie Xinxii, epubli oder Bookwire, unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation an.
+Je nach Anbieter schwanken die Produktionskosten und Honoare aber auch beim Service gibt es Unterschiede was Beartung und Unterstützung beim Marketing oder der Produktion, um die gewünschten Leser erreichen zu können. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle angeboten.  (vgl. 2013: Matting).
+Entscheidet man sich als Selbstpublizierender für eine solche Plattform 
+
+
 
 - Erst die kommerziellen Plattformen Kindle, Amazon, etc.
 
-http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
+2013 Matting: http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
 
 
 
