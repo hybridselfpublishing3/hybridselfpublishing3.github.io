@@ -71,16 +71,21 @@ Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freih
 Als Selfpublishing wird allgemein die Methode des verlagsunabhängigen Veröffentlichens bezeichnet, bei der die jeweilige Autorin oder der jeweilige Autor in Eigenregie die Produktion, den Vertrieb und das Marketing der eigenen Publikation, übernimmt. (Text aus dem Seminar als Quelle) 
 Wenn die geplante Veröffentlichung ein abgeschlossenes Werk darstellt, kann die Autorin, der Autor diesem, über eine Registrierung eine Internationalen Standardbuchnummer zuweisen lassen. Diese Voraussetzungen an die Publikation für eine Zuweisung einer ISBN, definiert die Internationale ISBN-Agentur (2017: 11) wie folgt: "[Eine] Veröffentlichung, die in einem Teil abgeschlossen ist oder deren Verlag/Autor(en) beabsichtigen, diese innerhalb einer begrenzen Anzahl von Teilen abzuschließen, und die der Öffentlichkeit in einer beliebigen Produktform zugänglich gemacht wird." 
 Über den Online-Shop isbn-shop.de der Firma MVB GmbH kann man bereits für 70€ plus MwSt. eine ISBN für sein Werk kaufen. Diese stellt nach der Internationalen ISBN-Agentur (2017: 8) "[...] eine eindeutige internationale Kennung für monografische Veröffentlichungen [dar]." und beinhaltet Vorteile wie beispielsweise die eindeutige Unterscheidung von Publikationen, ob digital oder gedruckt und die Erfassung von Verkaufsdaten (vgl. Internationale ISBN-Agentur, 2017: 8)
+Im Bezug auf hybride Veröffentlichungsformen also wenn sich die (Internationale ISBN-Agentur, 2017: 18) "[...] Produktformen und/oder Produktformdetails und/oder Produktformeigenschaften und/oder unterschiedlichen Nutzungsbeschränkungen aufweisen, die Einfluss auf
+die Zugänglichkeit der Erscheinungsform haben.", bedarf jedes Medium eine eigene ISBN. Beispielsweise kann ein Roman in Buchform auch mit identischem Inhaltal e-Book zum Downlad angeboten werden, welches dann unter einer anderen Registrierung laufen würde.
+
+Um also eine Publikation, mit allen Arbeitsschritten in Eigeninitiative und ohne Verlag, in das normierte Produktions- und Vertriebssystem einbinden zu können, muss das jeweilige Werk und Publikationsmedium die oben genannten Voraussetzungen erfüllen.
+
+In der Studie 'Europäische SelfPublishing-Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' der Selfpublishing Plattform 'Books on Demand' wird dieser Prozess sehr deutlich beschrieben. BoD (2016: 3) erklärt zu Anfang: "Mit der Eröffnung des freien Zugangs zum Buchmarkt behalten Autoren im Self-Publishing die völlige inhaltliche, gestalterische
+und rechtliche Kontrolle über ihre Werke." Dies stellt zunächst, vergleichend zu den oben genannten Rahmenbedingungen und Voraussetzungen der einzelnen Arbeitsschritte bei der Selbstpublikation, eine passende Gegenüberstellung der Pflichten und dem entstehenden Mehrwert der Eigenverantwortung als Freiheit dar.
+
+Neben BoD gibt es andere Plattformen wie Xinxii, epubli oder Bookwire, die unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation an. Je nach Anbieter schwanken die Produktionskosten und Honorare aber auch beim Service gibt es Unterschiede was Beartung und Unterstützung beim Marketing, um die gewünschten Leser erreichen zu können. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor wie z. B. Xinii, übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle auch für den möglichen Druck, angeboten (vgl. 2013: Matting).
+
+
 
 
 Zusätzlich wird bei der Selbstpublikation überwiegend die Methode, der Veröffentlichung von Inhalten über e-Book Formate aber auch Print on Demand (PoD), verwendet. Dies hängt mit den geringen Lager- und Produktionskosten zusammen (Quelle).
 Aber auch DIY Broschüren .... (Quelle aus Text aus Seminar).
-
-In der Studie 'Europäische SelfPublishing-Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' der Selfpublishing Plattform 'Books on Demand' wird dieser Prozess sehr deutlich beschrieben. BoD (2016: 3) erklärt zu Anfang: "Mit der Eröffnung des freien Zugangs zum Buchmarkt behalten Autoren im Self-Publishing die völlige inhaltliche, gestalterische
-und rechtliche Kontrolle über ihre Werke." Dies
-
-Bleibt man im Medium Internet, bieten dort Plattformen wie Xinxii, epubli oder Bookwire, unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation an. Je nach Anbieter schwanken die Produktionskosten und Honorare aber auch beim Service gibt es Unterschiede was Beartung und Unterstützung beim Marketing, um die gewünschten Leser erreichen zu können. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor wie z. B. Xinii, übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle auch für den möglichen Druck, angeboten (vgl. 2013: Matting).
-
 
 Rechte
 
