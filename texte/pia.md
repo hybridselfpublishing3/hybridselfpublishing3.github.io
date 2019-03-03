@@ -104,6 +104,14 @@ Selbstpublizierende müssen sich also vorher entscheiden welche Services sie ben
 
 
 
+### Gestalterischer und konzeptioneller Anspruch an den Selfpublisher
+
+Öffentlichkeit (Gilbert 2018): "Der Erkenntnis folgend, dass Publizieren nicht „nur die Produktion von Büchern, aber die Produktion einer Öffentlichkeit“ ist, loten zudem unzählige künstlerische Projekte die Verwerfungen in unserem Verständnis von Öffentlichkeit und deren gesellschaftspolitische Implikationen aus."
+
+Hybrid (Gilbert 2018): "Als Nebeneffekt hat sich eine Veröffentlichungsstrategie entwickelt, bei der die Werke im Medienverbund aus frei downloadbarem Pdf und PoD dargeboten werden.6 Dies ist weniger Ausdruck ökonomischen Kalküls als vielmehr eine dem postdigitalen Zeitalter angemessene Strategie, bei der sich beide Formate zu einer konzeptuellen Einheit verbinden. Erst im Zusammenspiel von Pdf und PoD entfaltet sich ihr ästhetisches Potential. So umfasst etwa Silvio Lorussos und Giulia Cilibertos Blank on Demand (2011) zwei leere weiße Bücher, die sich in Format, Umfang, Bindung, Preis etc. nach den Min-dest- bzw. Maximaleinstellungen des PoD-Anbieters richten und die Grenzen der Gestaltungsfreiheit aufzeigen. Es ergeben sich ein 40-seitiges Paperback zu 5,44 Euro und ein 740-seitiges Hardcover zu 999.999,99 Euro. Dieses Buchpaar, das sich angesichts des Preises mehr als Idee denn als physisches Objekt manifestiert, wird in seinem Zusammenspiel zur Summe der Begrenzt- und Bedingtheiten, denen das Publizieren mit PoD ausgesetzt ist. Zugleich zweckentfremdet es die Dienste des PoD-Anbieters, der hier nicht als Druckerei oder Vertrieb gefragt ist, sondern als Schaufenster, als virtueller Galerieraum."
+
+
+
 ### 4. Fazit
 
 Das verlagsunabhängige Publizieren im oder über das Internet stellt durch seine geringen technischen Hürden und der Möglichkeiten Plattformen mit entsprechenden Services zu nutzen, keinen Automatismus bei dem eigentlichen Veröffentlichen dar. /weiter begründen und erklären/
@@ -122,30 +130,15 @@ MVB GmbH (aufgerufen am 02.03.19) https://www.isbn-shop.de/
 
 2016 Books on Demand GmbH, Self Publishing Studie 'Europäische SelfPublishing - Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' (augerufen am 01.03.19): https://www.bod.de/fileadmin/user_upload_de_ch/Landingpages/Self-Publishing-Studie-2016/Europaeische_Self-Publishing-Studie-2016.pdf
 
-Haughland, Ann (2006). Opening the gates: Print on-demand publishing as cultural
-production. In: Publishing Research Quarterly
 
 BoD (2016: 3): "Das Ergebnis ist eine Demokratisierung des Verlagsgeschäfts, die Lesern eine große Titelvielfalt bis hinein in die kleinste thematische Nische und Autoren – ob nun neues Talent oder erfahrener Verlagsautor – ein spannendes Entwicklungs- und Gestaltungspotenzial bietet." 
+
 
 2013 Matting: http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
 
 
-Öffentlichkeit (Gilbert 2018): "Der Erkenntnis folgend, dass Publizieren nicht „nur die Produktion von Büchern, aber die Produktion einer Öffentlichkeit“ ist, loten zudem unzählige künstlerische Projekte die Verwerfungen in unserem Verständnis von Öffentlichkeit und deren gesellschaftspolitische Implikationen aus."
-
-Hybrid (Gilbert 2018): "Als Nebeneffekt hat sich eine Veröffentlichungsstrategie entwickelt, bei der die Werke im Medienverbund aus frei downloadbarem Pdf und PoD dargeboten werden.6 Dies ist weniger Ausdruck ökonomischen Kalküls als vielmehr eine dem postdigitalen Zeitalter angemessene Strategie, bei der sich beide Formate zu einer konzeptuellen Einheit verbinden. Erst im Zusammenspiel von Pdf und PoD entfaltet sich ihr ästhetisches Potential. So umfasst etwa Silvio Lorussos und Giulia Cilibertos Blank on Demand (2011) zwei leere weiße Bücher, die sich in Format, Umfang, Bindung, Preis etc. nach den Min-dest- bzw. Maximaleinstellungen des PoD-Anbieters richten und die Grenzen der Gestaltungsfreiheit aufzeigen. Es ergeben sich ein 40-seitiges Paperback zu 5,44 Euro und ein 740-seitiges Hardcover zu 999.999,99 Euro. Dieses Buchpaar, das sich angesichts des Preises mehr als Idee denn als physisches Objekt manifestiert, wird in seinem Zusammenspiel zur Summe der Begrenzt- und Bedingtheiten, denen das Publizieren mit PoD ausgesetzt ist. Zugleich zweckentfremdet es die Dienste des PoD-Anbieters, der hier nicht als Druckerei oder Vertrieb gefragt ist, sondern als Schaufenster, als virtueller Galerieraum."
-
 (2018 Annette Gilbert "Vom Rand ins Zentrum – Vom Buch zum Publizieren. Tendenzen künstlerischer Publikationspraxis." In: Kunstforum International 256/2018, 66–77.)
 Aufgerufen am 02.03.19 https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de
-
-
-
-### 1.1 Gestalterische Aspekte bei digitale und hybriden zu Veröffentlichungsmethoden 
-
-
-
-
-
-
 
 
 
