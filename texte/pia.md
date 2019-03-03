@@ -70,14 +70,16 @@ Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freih
 
 Als Selfpublishing wird allgemein die Methode des verlagsunabhängigen Veröffentlichens bezeichnet, bei der die jeweilige Autorin oder der jeweilige Autor in Eigenregie die Produktion, den Vertrieb und das Marketing der eigenen Publikation, übernimmt. (Text aus dem Seminar als Quelle) 
 
-Im Bezug auf digitale Veröffentlichungen bietet das Internet eine Vielzahl von Methoden an, die sich nicht nur technisch sondern auch inhaltlich unterscheiden. 
-/Definition Veröffentlichung/ Blogs, Instagram/Social Medie, YouTube.
+Im Bezug auf digitale Veröffentlichungen bietet das Internet eine Vielzahl von Methoden an, die sich nicht nur technisch sondern auch inhaltlich unterscheiden. Dabei kann es sich zum einen um unterschiedlich produzierte Videos auf YoutTube handeln sowie um einen Postcast oder Webblog. Aber auch die Verwendung von Self-Publishing Plattformen, die es Autorinnen und Autoren ermöglichen ihre Werke digital oder auch als Printversion zu veröffentlichen, bieten Selbstpublizierenden eine Möglichkeit mit ihren Werken an die Öffentlichkeit zu treten.
 
-Blogs sind ein gutes Beispiel für ständig wachsene Inhalte und die kontinuierliche Veröffentlichung von Beiträgen über aktuelle Themen. Inhalte werden meistens dokumentarisch aber auch analytisch und in Tagebuchform veröffentlicht. Die Inhalte können dabei alltägliche Themen behandeln oder beziehen sich auf spezielle Bereiche wie z. B. Ernährung, Sport oder Technik. Die Veröffentlichung der Texte, die als Beiträge bezeichnet werden, folgen meistens einer täglichen oder wöchentlichen Sequenz, um eine kontinuierlichen Informationswiedergabe zu generieren. Ähnlich wie eine Tageszeitung aktuelle Nachrichten und Ereignise dem Leser regelmäßig zur Verfügung stellt (Quelle).
+Blogs sind ein gutes Beispiel für ständig wachsene Inhalte durch die kontinuierliche Veröffentlichung von Beiträgen über aktuelle Themen. Inhalte werden meistens dokumentarisch aber auch analytisch und in Tagebuchform veröffentlicht.
+Die Inhalte können dabei alltägliche Themen behandeln oder beziehen sich auf spezielle Bereiche wie z. B. Ernährung, Sport oder Technik. Die Veröffentlichung der Texte, die als Beiträge oder Posts bezeichnet werden, folgen meistens einer täglichen oder wöchentlichen Sequenz, um eine kontinuierlichen Informationswiedergabe zu generieren.
+Die lineare Struktur von Blogs sieht es vor, dass immer der aktuellste Beitrag oben steht und nachfolgend die älteren Beiträge angeordnet sind. Gängige Inhalte von Blogs sind überwiegend Texte, die mit Fotografien, Videos und Links zu anderen Blogs oder Webseiten unterstrichen werden. Zusätzlich bieten Kommentarfunktionen eine Interaktionsgrundlage für und mitden Lesern (vgl. Weber 2007: 168-169).
+
 Der Blog für Design, Fotografie und Lifestyle schoenhaesslich.de von den Autoren Johannes Eich und Pierre Starkloff, die ihren Blog als 'Lifestyle-Magazin fernab des Mainstreams' bezeichnen, bietet eine gute Mischung aus Fotostrecken, Texten und Reiseberichten. Dabei besteht der gesamte Inhalt aus Beiträgen von verschiedenen Autoren mit ihren jeweilig präferierten Themen und Fachbereichen.
-Neben der Veröffentlichung von Beiträgen zielen Blogger darauf ab, dass ihre regelmäßig erscheinenen Inhalte nicht nur gelesen werden, sondern, dass auch darauf reagiert wird. Diese Interaktionen äußern sich einerseits durch Leserkommentare unter den jeweiligen Beiträgen, auf die der Blogger wiederum auch reagieren kann. Zusätzlich ist die Verbreitung der Beiträge durch das Teilen in Sozialen Netzwerken und durch das Aufgreifen und die Einbeziehung von anderen Bloggern eine verbreitete Praxis. Die Qualität der Inhalte von Blogs variiert je nach Themenbereich und Autor. Ein Food-Blog über vegane Ernährung kann entweder eine fundierte Informationsquelle eines Ernährungswissenschaftlers sein oder Beiträge über den vegangen Lifestyle mit Rezeptideen beinhalten.
+Neben der Veröffentlichung von Beiträgen zielen Blogger darauf ab, dass ihre regelmäßig erscheinenen Inhalte nicht nur gelesen werden, sondern, dass auch darauf aktiv reagiert wird. Zusätzlich ist die Verbreitung der Beiträge durch das Teilen in Sozialen Netzwerken und durch das Aufgreifen und die Einbeziehung von anderen Bloggern eine verbreitete Praxis. Die Qualität der Inhalte und somit auch die Leserschaft von Blogs variiert je nach Themenbereich und Autor. Ein Blog über Ernährung, wie ihn Dr. Friedhelm Mühleib unter tellerrandblog.de betreibt, beinhaltet beispielsweise fundierte Informationen eines Ernährungswissenschaftlers und stellt zwar nicht thematisch aber inhaltlich einen Kontrast zu dem Blog emmikochteinfach.de dar. Dieser wird betrieben von Christiane, die eigentlich im Marketing arbeitet (Christiane Emma & Oliver Prolic GbR) und enthält Rezeptideen, Tipps und persönliche Erfahrungsberichte in der Küche.
 
-Publikationsmethoden wie die Betreibung eines Blogs stellen, durch die fortlaufende Ergänzung durch regelmäßige Beiträge, sowie die theoretisch zeitlich unbegrenzte Möglichkeit mit den Lesern zu interagieren, keine abgeschlossenen Werke dar. Auch wenn es technisch möglich ist die Beitäge digital zu archivieren und eventuell in einem Printmedium zu veröffentlichen, muss untersucht werden, ob und wie die enthaltenen Themen überhaupt in ein anderes Medium übertragen werden können, da beispielsweise in Buchform Funktionen wie Leserkommentare synchron behandeln zu können wegfallen würden. Zusätzlich würden die Buchfornen der beiden Food-Blogbeispiele konzeptionell und gestalterisch unterschiedlich ausfallen. Der professionelle Ernährungs-Blog müsste, um die Qualität der Inhalte beizubehalten oder sogar zu steiern, eine wissenschaftliche Publikationsform ansteuern. Der vegane Lifestyle-Blog würde durch viele appetitliche Fotografien und raffinierte Rezeptideen eine Art Kochbuch oder Ernährungs-Guide darstellen.
+Publikationsmethoden wie die Betreibung eines Blogs stellen, durch die fortlaufende Ergänzung durch regelmäßige Beiträge, sowie die theoretisch zeitlich unbegrenzte Möglichkeit mit den Lesern zu interagieren, keine abgeschlossenen Werke dar. Auch wenn es technisch möglich ist die Beitäge digital zu archivieren und in einem Printmedium zu veröffentlichen, muss zunächst untersucht werden, ob und wie die enthaltenen Themen überhaupt in ein anderes Medium übertragen werden können, da beispielsweise in Buchform Funktionen wie Leserkommentare synchron behandeln zu können wegfallen würden. Zusätzlich würden die Buchfornen der beiden Ernährungs-Blog-Beispiele konzeptionell und gestalterisch unterschiedlich ausfallen. Der professionelle Ernährungs-Blog müsste, um die Qualität der Inhalte beizubehalten oder sogar zu steiern, eine wissenschaftliche Publikationsform ansteuern. Der Koch-Blog von Christiane würde durch viele appetitliche Fotografien und raffinierte Rezeptideen eine Art Kochbuch oder Ernährungs-Guide darstellen.
 
 
 ### 2. Unterschiede bei der Selbstpublizierung von digitalen und hybriden Inhalten
@@ -91,7 +93,7 @@ die Zugänglichkeit der Erscheinungsform haben.", bedarf jedes Medium eine eigen
 
 Um also eine Publikation, mit allen Arbeitsschritten in Eigeninitiative und ohne Verlag, in das normierte Produktions- und Vertriebssystem einbinden zu können, muss das jeweilige Werk und Publikationsmedium die oben genannten Voraussetzungen erfüllen.
 
-In der Studie 'Europäische SelfPublishing-Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' der Selfpublishing Plattform 'Books on Demand' wird dieser Prozess sehr deutlich beschrieben. BoD (2016: 3) erklärt zu Anfang: "Mit der Eröffnung des freien Zugangs zum Buchmarkt behalten Autoren im Self-Publishing die völlige inhaltliche, gestalterische
+In der Studie 'Europäische SelfPublishing-Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' der Selfpublishing Plattform 'Books on Demand' wird dieser Prozess sehr deutlich beschrieben. BoD (2016: 6) erklärt zu Anfang: "Mit der Eröffnung des freien Zugangs zum Buchmarkt behalten Autoren im Self-Publishing die völlige inhaltliche, gestalterische
 und rechtliche Kontrolle über ihre Werke." Dies stellt zunächst, vergleichend zu den oben genannten Rahmenbedingungen und Voraussetzungen der einzelnen Arbeitsschritte bei der Selbstpublikation, eine passende Gegenüberstellung der Pflichten und dem entstehenden Mehrwert der Eigenverantwortung als Freiheit dar.
 
 Neben BoD gibt es weitere Plattformen wie Xinxii, epubli oder Bookwire, die unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation anbieten. Je nach Anbieter schwanken die Produktionskosten und Honorare aber auch beim Service gibt es Unterschiede was Beratung und Unterstützung beim Marketing, um die gewünschten Leser erreichen zu können, angeht. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor wie z. B. Xinii, übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle auch für den möglichen Druck, angeboten (vgl. 2013: Matting).
@@ -122,9 +124,13 @@ Auch wenn beispielsweise das Veröffentlichen über Blogs eine eher nicht kommer
 Zusätzlich wird bei der Selbstpublikation überwiegend die Methode, der Veröffentlichung von Inhalten über e-Book Formate aber auch Print on Demand (PoD), verwendet. Dies hängt mit den geringen Lager- und Produktionskosten zusammen (Quelle).
 Aber auch DIY Broschüren .... (Quelle aus Text aus Seminar).
 
-Rechte
 
-MVB GmbH (aufgerufen am 02.03.19) https://www.isbn-shop.de/
+### Quellen:
+
+
+2007 Weber, Larry: 'Marketing to the Social Web: How Digital Customer Communities Build Your Business' New York NY Wiley, 1. Auflage (S.168-169)
+
+MVB GmbH: https://www.isbn-shop.de/ (aufgerufen am 02.03.19)
 
 2017 Internationale ISBN-Agentur, London "ISBN-Handbuch" 7. Ausgabe (aufgerufen am 02.03.19 https://www.german-isbn.de/media/isbn-handbuch.pdf)
 
@@ -137,7 +143,7 @@ BoD (2016: 3): "Das Ergebnis ist eine Demokratisierung des Verlagsgeschäfts, di
 2013 Matting: http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
 
 
-(2018 Annette Gilbert "Vom Rand ins Zentrum – Vom Buch zum Publizieren. Tendenzen künstlerischer Publikationspraxis." In: Kunstforum International 256/2018, 66–77.)
+2018 Gilbert, Annette: 'Vom Rand ins Zentrum – Vom Buch zum Publizieren. Tendenzen künstlerischer Publikationspraxis.' In: Kunstforum International 256/2018, 66–77.)
 Aufgerufen am 02.03.19 https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de
 
 
