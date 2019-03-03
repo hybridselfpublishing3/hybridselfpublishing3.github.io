@@ -131,6 +131,8 @@ Auch wenn beispielsweise das Veröffentlichen über Blogs eine eher nicht kommer
 Zusätzlich wird bei der Selbstpublikation überwiegend die Methode, der Veröffentlichung von Inhalten über e-Book Formate aber auch Print on Demand (PoD), verwendet. Dies hängt mit den geringen Lager- und Produktionskosten zusammen (Quelle).
 Aber auch DIY Broschüren .... (Quelle aus Text aus Seminar).
 
+Publikation findet nicht nur unter der Reglementierung von Internationalen Standard Buchnummern statt, sondern bezieht sich auch auf die jeweilige Intention durch die Veröffentlichung einen Raum für die Erschließung der Inhalte zu schaffen.
+
 
 ### Quellen:
 
