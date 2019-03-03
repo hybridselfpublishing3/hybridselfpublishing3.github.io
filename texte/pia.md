@@ -101,6 +101,12 @@ An dieser Stelle kann ein möglicher Kontrollverlust bei der Verwendung solcher 
 
 
 
+### 4. Fazit
+
+Das verlagsunabhängige Publizieren im oder über das Internet stellt durch seine geringen technischen Hürden und der Möglichkeiten Plattformen mit entsprechenden Services zu nutzen, keinen Automatismus bei dem eigentlichen Veröffentlichen dar. /weiter begründen und erklären/
+
+Auch wenn beispielsweise das Veröffentlichen über Blogs eine eher nicht kommerzielle Publikatiosmehtode darstellt muss auch hier die Autorin, der Autor nach einem gezielten Konzept arbeiten.
+
 
 Zusätzlich wird bei der Selbstpublikation überwiegend die Methode, der Veröffentlichung von Inhalten über e-Book Formate aber auch Print on Demand (PoD), verwendet. Dies hängt mit den geringen Lager- und Produktionskosten zusammen (Quelle).
 Aber auch DIY Broschüren .... (Quelle aus Text aus Seminar).
