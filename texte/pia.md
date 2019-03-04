@@ -47,7 +47,7 @@ Die jeweilige Druckvorlage eines PoD erfolgt im PDF Format und erfordert diverse
 
 Die Inanspruchnahme der Services solcher Plattformen, beinhaltet zwar viele technischen Hilfen, beispielsweise bei der Konvertierung von Dateiformaten, jedoch ist eine direkte Digitale Rechteverwaltung, z. B. über ein Wasserzeichen, nicht immer gegeben. Im Vergleich der Angebote verschiedener Anbieter ist die Registrierung für eine ISBN oftmals aber kostengünstiger. Die jeweilige Plattform verteilt bei der Veröffentlichung das Werk an mehrere Shops wie Amazon, Apple, Google Play, buecher.de oder Thalia. Je nach Plattform kann die Autorin, der Autor mitentscheiden, an welche Shops das eigene Werk verteilt werden soll, in einigen Ausnahmen bestimmt das jedoch die Plattform, über den vorher abgeschlossenen Vertrag, alleine (vgl. 2013: Matting). 
 An dieser Stelle kann ein möglicher Kontrollverlust bei der Verwendung solcher Plattformen gesehen werden, gerade was die Urheberrechte und den Vertrieb betrifft. Dies beeinfluss jedoch auch den jeweiligen Gewinn. Wird das eigene Werk vom ausgewählten Anbieter an festgelegte Shops verteilt, kann der Autor auch keinen Einfluss auf das Honorar für den Vertrieb über die Shops, ausüben. Publiziert man beispielsweise über BoD erklärt man sich damit einverstanden, dass das eigene Werk an eine festgelegte Gruppe an Shops verteilt wird. Darunter befindet sich auch Amazon. Das Unternehmen beansprucht, unabhängig vom Einkaufspreis, 49% des Verkaufspreises als Honorar  (vgl. 2013: Matting).
-Selbstpublizierende müssen sich also vorher bewusst entscheiden welche Services sie benötigen und festlegen, inwieweit sie Teile ihres Mitspracherechts und der Kontrolle, beispielsweise über den Vertrieb und den Gewinn, gegen die Unterstützung durch Anbieter abgeben möchten.
+Matting kommentiert die vermeintliche Unabhänigkeit von Self-Publisher folgendermaßen (Matting 2018): "Ich kann zwar frei entscheiden, wie ich mein Buch fertig stelle. Aber ich bin doch auf viele Menschen und Firmen angewiesen, die unterschiedlich zuverlässig arbeiten, mit denen ich Verträge schließen muss und die ihre Konditionen zu meinen Ungunsten ändern können." Selbstpublizierende müssen sich also vorher bewusst entscheiden welche Services sie benötigen und festlegen, inwieweit sie Teile ihres Mitspracherechts und der Kontrolle, beispielsweise über den Vertrieb und den Gewinn, gegen die Unterstützung durch Anbieter abgeben möchten.
 
 
 ### 3. Gestalterischer und konzeptioneller Anspruch an den Selfpublisher
@@ -87,7 +87,7 @@ Auch wenn beispielsweise das Veröffentlichen über Blogs eine eher nicht kommer
 Publikation findet nicht nur unter der Reglementierung von Internationalen Standardbuchnummern statt, sondern bezieht sich auch auf die jeweilige Intention durch die Veröffentlichung einen Raum für die Erschließung der Inhalte zu schaffen.
 
 
-Als Self-Publischer bin ich vöölig unabhängig (Matting 2018): "Falsch. Ich kann zwar frei entscheiden, wie ich mein Buch fertig stelle. Aber ich bin doch auf viele Menschen und Firmen angewiesen, die unterschiedlich zuverlässig arbeiten, mit denen ich Verträge schließen muss und die ihre Konditionen zu meinen Ungunsten ändern können."
+Als Self-Publischer bin ich völig unabhängig (Matting 2018): "Falsch. Ich kann zwar frei entscheiden, wie ich mein Buch fertig stelle. Aber ich bin doch auf viele Menschen und Firmen angewiesen, die unterschiedlich zuverlässig arbeiten, mit denen ich Verträge schließen muss und die ihre Konditionen zu meinen Ungunsten ändern können."
 
 
 ### Quellen:
