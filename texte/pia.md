@@ -62,6 +62,13 @@ Unabhängig davon, ob ein selbstpubliziertes Werk als digitaler und frei zuängl
 Einen Blog oder eine Website zu betreiben erfordert, trotz Content Management Systeme (CMS) wie WordPress, Wissen über das Einrichten, Installieren und Konfogurieren von Webseiten und ihr Design. Bei Blogs spielen Elemente wie das Archiv, die Navigation durch die einzelnen Beiträge sowie die Filterung der Themen eine großte Rolle bei der Strukturierung. Dabei muss sich die Autorin, der Autor genau überlegen, wie die Inhalte vom Leser aufgefasst und eventuell weiterverarbeit werden sollen. Zusätzlich muss entschieden werden, welche Inhalte zu erst gesehen werden sollen und wie Reaktionen hervorgerufen werden können. Dazu kommen noch die gestalterischen Aspekte, die den Text interessant und benutzerfreundlich präsentieren. Auch wenn WordPress durch Themes, also vorgefertigte Seitenlayouts und Designs beinhaltet, muss auch darauf geachtet werden, dass man nicht im Einheitsbrei von Content Management Systemen verschwindet.
 
 Im Bezug auf kommerzielle Selbstpublikation von digitalen und hybriden Werken über Medien wie e-Book, PDF und PoD muss auch die jeweilige Kompatibilität des Inhaltes mit dem Medium beachtet werden.
+Im Vergleich zum Blog oder einer Webseite bieten auch EPUB-Dateien eine dynamische Darstellung, bei der sich der Inhalt an das jeweilige Ausgabegerät anpasst.
+
+EPUB (Electronic PUBlication) ist ein offener Standard für E-Books vom International Digital Publishing Forum (IDPF) und ist ein Dateiformat, dass auf einer einfachen Struktur unter Einbindung von den gängigen Webstandard wie XML, XHTML und CSS basiert.
+
+(vgl. 2019 EPUB Specifications and Projects)
+
+
 
 
 Vergleich von digitalen und hybriden Publikationsmedien
@@ -118,6 +125,10 @@ https://www.heise.de/ct/artikel/Buch-2-0-291410.html
 
 2018 Gilbert, Annette: 'Vom Rand ins Zentrum – Vom Buch zum Publizieren. Tendenzen künstlerischer Publikationspraxis.' In: Kunstforum International 256/2018, 66–77.)
 Aufgerufen am 02.03.19 https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de
+
+
+12.02.19 EPUB Specifications and Projects http://www.idpf.org/epub/dir/ (aufgerufen 04.03.19)
+
 
 
 
