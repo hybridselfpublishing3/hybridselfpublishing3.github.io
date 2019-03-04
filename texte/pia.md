@@ -100,6 +100,7 @@ und rechtliche Kontrolle über ihre Werke." Dies stellt zunächst, vergleichend 
 Neben BoD gibt es weitere Plattformen wie Xinxii, epubli oder Bookwire, die unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation anbieten. Je nach Anbieter schwanken die Produktionskosten und Honorare aber auch beim Service gibt es Unterschiede was Beratung und Unterstützung beim Marketing, um die gewünschten Leser erreichen zu können, angeht. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor wie z. B. Xinii, übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle auch für den möglichen Druck, angeboten (vgl. 2013: Matting).
 
 Solche Plattformen bieten überwiegend eine digitale Publikationsmöglichkeit über e-Book-Formate und PDF an. Anbieter wie Ruckzuckbuch, ePubli oder Tredition geben zusätzlich die Möglichkeit über Print on Demand (PoD), also wenn der eigentliche Buchdruck erst nach der Bestellung des Lesers erfolgt, eine hybride Veröffentlichung zu veranlassen.
+Die jeweilige Druckvorlage eines Book on Demand (BoD) 
 
 Die Inanspruchnahme der Services solcher Plattformen, beinhaltet nicht immer eine direkte Digitale Rechteverwaltung, z. B. über ein Wasserzeichen. Im Vergleich der Angebote verschiedener Anbieter ist die Registrierung für eine ISBN oftmals kostengünstiger. Die jeweilige Plattform verteilt bei der Veröffentlichung das Werk an mehrere Shops wie Amazon, Apple, Google Play, buecher.de oder Thalia. Je nach Plattform kann die Autorin oder der Autor mitentscheiden, an welche Shops das eigene Werk verteilt werden soll, in einigen Ausnahmen bestimmt das jedoch die Plattform, über den vorher abgeschlossenen Vertrag, alleine (vgl. 2013: Matting). 
 An dieser Stelle kann ein möglicher Kontrollverlust bei der Verwendung solcher Plattformen gesehen werden, gerade was die Urheberrechte und den Vertrieb betrifft. Dies beeinfluss jedoch auch den jeweiligen Gewinn. Wird das eigene Werk vom ausgewählten Anbieter an festgelegte Shops verteilt, kann der Autor auch keinen Einfluss auf das Honorar für den Vertrieb über die Shops, ausüben. Publiziert man beispielsweise über BoD erklärt man sich damit einverstanden, dass das eigene Werk an eine festgelegte Gruppe an Shops verteilt wird. Darunter befindet sich auch Amazon. Das Unternehmen beansprucht, unabhängig vom Einkaufspreis, 49% des Verkaufspreises als Honorar  (vgl. 2013: Matting).
@@ -113,6 +114,12 @@ ePub (passt sich automatisch an Gerätelayout an (responsive)
 PDF
 e-Book
 PoD
+
+
+2016 Bajohr, Hannes 'Infradünne Plattformen - Print-on-Demand als Strategie und Genre'                      
+Während relative Dokumenten-Layouts, wie etwa auf Websites oder in Epub-Dateien, es zulassen, dass ein Text per responsive design für jedes denkbare Ausgabegerät neu umbrochen werden kann, ist ein PDF, so wie die Seite eines Buches, absolut in seiner Gestaltung.16 Der De-facto-Standard kommerziellen E-Publishings, der auf die Lektüre mit dem Smartphone, Kindle oder iPad abzielt, ist das Epub; für die hier genannten experimentellen Plattformen ist hingegen das PDF zum Standard geworden, weil die kommerziellen Print-on-Demand-Anbieter von diesem Format drucken. Daher bestimmt der Text nicht nur die Formatierung der Datei, auch ist die Datei durch die Vorgaben der Buchproduktion bestimmt, die wiederum die Textästhetik beeinflussen. Text, Datei und Buchobjekt sind so miteinander verschränkt, dass sie jeweils aufeinander verweisen – postdigitaler geht es kaum.
+(16 Vgl. Günter Hack, Philosophie des Responsive Design. Gestaltung und Kontrolle. In: Merkur, Nr. 792, Mai 2015.)
+
 
 Öffentlichkeit (Gilbert 2018): "Der Erkenntnis folgend, dass Publizieren nicht „nur die Produktion von Büchern, aber die Produktion einer Öffentlichkeit“ ist, loten zudem unzählige künstlerische Projekte die Verwerfungen in unserem Verständnis von Öffentlichkeit und deren gesellschaftspolitische Implikationen aus."
 
