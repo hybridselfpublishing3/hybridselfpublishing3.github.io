@@ -90,39 +90,42 @@ Abschließend kann festgehalten werden, dass der Selbstpublizierende nicht einfa
 
 ### Quellen:
 
-
-2007 Weber, Larry: 'Marketing to the Social Web: How Digital Customer Communities Build Your Business' New York NY Wiley, 1. Auflage (S.168-169)
-
-MVB GmbH: https://www.isbn-shop.de/ (aufgerufen am 02.03.19)
-
-2017 Internationale ISBN-Agentur, London "ISBN-Handbuch" 7. Ausgabe (aufgerufen am 02.03.19 https://www.german-isbn.de/media/isbn-handbuch.pdf)
-
-2016 Books on Demand GmbH, Self Publishing Studie 'Europäische SelfPublishing - Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' (augerufen am 01.03.19): https://www.bod.de/fileadmin/user_upload_de_ch/Landingpages/Self-Publishing-Studie-2016/Europaeische_Self-Publishing-Studie-2016.pdf
+Bajohr, Hannes 2016: 'Infradünne Plattformen - Print-on-Demand als Strategie und Genre' [online] https://www.academia.edu/19784562/Infrad%C3%BCnne_Plattformen._Print-on-Demand_als_Strategie_und_Genre [aufgerufen am 04.03.19]
 
 
-BoD (2016: 3): "Das Ergebnis ist eine Demokratisierung des Verlagsgeschäfts, die Lesern eine große Titelvielfalt bis hinein in die kleinste thematische Nische und Autoren – ob nun neues Talent oder erfahrener Verlagsautor – ein spannendes Entwicklungs- und Gestaltungspotenzial bietet." 
+Books on Demand GmbH 2016: 'Self Publishing Studie 'Europäische SelfPublishing - Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' [online] https://www.bod.de/fileadmin/user_upload_de_ch/Landingpages/Self-Publishing-Studie-2016/Europaeische_Self-Publishing-Studie-2016.pdf [aufgerufen am 01.03.19]
 
 
-2013 Matting: http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
-2018 Matting: http://www.selfpublisherbibel.de/die-haeufigsten-irrtuemer-im-selfpublishing-veroeffentlichender-autoren/
-
-21.01.2008 Tim Gerber: Buch 2.0 – wie die Evolution der Digitaldrucktechnik den Buchmarkt revolutioniert.(aufgerufen 04.03.19)
-https://www.heise.de/ct/artikel/Buch-2-0-291410.html
-
-2018 Gilbert, Annette: 'Vom Rand ins Zentrum – Vom Buch zum Publizieren. Tendenzen künstlerischer Publikationspraxis.' In: Kunstforum International 256/2018, 66–77.)
-Aufgerufen am 02.03.19 https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de
+EPUB Specifications and Projects 12.02.19: [online] http://www.idpf.org/epub/dir/ [aufgerufen am 04.03.19]
 
 
-12.02.19 EPUB Specifications and Projects http://www.idpf.org/epub/dir/ (aufgerufen 04.03.19)
-
-2013 International Digital Publishing Forum http://epubtest.org/ (aufgerufen 04.03.19)
-
-10.10.2018 Martin Holland: Tolino Shine 3: Neuer E-Reader nun etwas leichter und mit viel mehr Speicher https://www.heise.de/newsticker/meldung/Tolino-Shine-3-Neuer-E-Reader-nun-etwas-leichter-und-mit-viel-mehr-Speicher-4186632.html?hg=1&hgi=6&hgf=false (aufgerufen 04.03.19)
+Gerber, Tim 21.01.2008: 'Buch 2.0 – wie die Evolution der Digitaldrucktechnik den Buchmarkt revolutioniert.' [online]
+https://www.heise.de/ct/artikel/Buch-2-0-291410.html [aufgerufen am 04.03.19]
 
 
-2014 Steve Krug 'Don't make me think! Web & Mobile Usability: Das intuitive Web.', 3. Auflage (Leseprobe: https://www.ebook.de/de/advancedSearch?action=search&languageCode=&person=Steve%20Krug)
+Gilbert, Annette 2018: 'Vom Rand ins Zentrum – Vom Buch zum Publizieren. Tendenzen künstlerischer Publikationspraxis.' In: Kunstforum International 256/2018, 66–77.) [online] https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de [aufgerufen am 02.03.19]
 
 
-2016 Bajohr, Hannes 'Infradünne Plattformen - Print-on-Demand als Strategie und Genre'   
+Holland, Martin 10.10.2018: 'Tolino Shine 3: Neuer E-Reader nun etwas leichter und mit viel mehr Speicher' [online] https://www.heise.de/newsticker/meldung/Tolino-Shine-3-Neuer-E-Reader-nun-etwas-leichter-und-mit-viel-mehr-Speicher-4186632.html?hg=1&hgi=6&hgf=false [aufgerufen am 04.03.19]
 
 
+International Digital Publishing Forum 2013: 'EPUB 3 Support Grid' [online] http://epubtest.org/ [aufgerufen am 04.03.19]
+
+
+Internationale ISBN-Agentur 2017: 'ISBN-Handbuch' 7. Ausgabe [online] https://www.german-isbn.de/media/isbn-handbuch.pdf [aufgerufen am 02.03.19]
+
+
+Krug, Steve 2014: 'Don't make me think! Web & Mobile Usability: Das intuitive Web.', 3. Auflage
+[online] Leseprobe: https://www.ebook.de/de/advancedSearch?action=search&languageCode=&person=Steve%20Krug [aufgerufen am 04.03.19]
+
+
+Matting, Matthias 2013: 'WER VERTEILT MEIN EBOOK? DIE WICHTIGSTEN SELF-PUBLISHING-ANBIETER IM VERGLEICH' [online] http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/ [aufgerufen am 01.03.19]
+
+
+Matting, Matthias 2018: 'DIE SIEBEN HÄUFIGSTEN IRRTÜMER IM SELFPUBLISHING VERÖFFENTLICHENDER AUTOREN' [online] http://www.selfpublisherbibel.de/die-haeufigsten-irrtuemer-im-selfpublishing-veroeffentlichender-autoren/ [aufgerufen am 03.03.19]
+
+
+MVB GmbH: [online] https://www.isbn-shop.de/ [aufgerufen am 02.03.19]
+
+
+Weber, Larry 2007: 'Marketing to the Social Web: How Digital Customer Communities Build Your Business' New York NY Wiley, 1. Auflage (S.168-169)
