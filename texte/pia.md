@@ -61,14 +61,19 @@ Unabhängig davon, ob ein selbstpubliziertes Werk als digitaler und frei zuängl
 
 Einen Blog oder eine Website zu betreiben erfordert, trotz Content Management Systeme (CMS) wie WordPress, Wissen über das Einrichten, Installieren und Konfogurieren von Webseiten und ihr Design. Bei Blogs spielen Elemente wie das Archiv, die Navigation durch die einzelnen Beiträge sowie die Filterung der Themen eine großte Rolle bei der Strukturierung. Dabei muss sich die Autorin, der Autor genau überlegen, wie die Inhalte vom Leser aufgefasst und eventuell weiterverarbeit werden sollen. Zusätzlich muss entschieden werden, welche Inhalte zu erst gesehen werden sollen und wie Reaktionen hervorgerufen werden können. Dazu kommen noch die gestalterischen Aspekte, die den Text interessant und benutzerfreundlich präsentieren. Auch wenn WordPress durch Themes, also vorgefertigte Seitenlayouts und Designs beinhaltet, muss auch darauf geachtet werden, dass man nicht im Einheitsbrei von Content Management Systemen verschwindet.
 
-Im Bezug auf kommerzielle Selbstpublikation von digitalen und hybriden Werken über Medien wie e-Book, PDF und PoD muss auch die jeweilige Kompatibilität des Inhaltes mit dem Medium beachtet werden.
+Im Bezug auf kommerzielle Selbstpublikation von digitalen und hybriden Werken über Medien wie e-Book, PDF und PoD muss auch die jeweilige Kompatibilität des Inhaltes mit dem Medium beachtet werden. Doch e-Book ist nicht gleich e-Book. Technisch gesehen ist ein e-Book eine digitale Datei einer Publikation, die auf elektronischen Endgeräten gelesen werden kann.
+Eine spezifische Form von e-Book ist das Dateiformat EPUB.
 Im Vergleich zum Blog oder einer Webseite bieten auch EPUB-Dateien eine dynamische Darstellung, bei der sich der Inhalt an das jeweilige Ausgabegerät anpasst.
 EPUB (Electronic PUBlication) ist ein offener Standard für E-Books vom International Digital Publishing Forum (IDPF) und bildet ein Dateiformat, dass auf einer einfachen Struktur unter Einbindung von den gängigen Webstandard wie XML, XHTML und CSS basiert (vgl. 2019 EPUB Specifications and Projects).
 
-Fast alle E-Book Reader, z. B. Tolino und Verwaltungssoftware für die Bearbeitung und Wiedergabe der Dateien wie Adobe Digital Editions und iBooks können das EPUB-Format interpretieren. (vgl. 2013 IDPF)
+Fast alle E-Book Reader, z. B. Tolino und Verwaltungssoftware für die Bearbeitung und Wiedergabe der Dateien wie Adobe Digital Editions und iBooks können das EPUB-Format interpretieren (vgl. 2013 IDPF).
 Der e-Book Reader Tolino Shine 3 bietet mit einer Bildschirmdiagonalen von 15,24 cm eine vergleichbare Layoutgröße von einem Taschenbuch. Die Bildschirmtechnik basiert auf e-Ink und stellt somit kaum einen Stromverbrauch im Betrieb dar, jedoch können daher der Text und eventuell eingebundene Bilder in nur 16 Graustufen angezeigt werden. Der Lesekomfort ist einerseits durch die, an die Tageszeit angepasste Farbtemperatur, die hohe Kontrastfähigkeit der Bildschirmtechnologie und der handlichen Größe, sehr hoch und ist daher für das Lesen von langen Fließtexten, wie in Romanen gut geeignet (vgl. 2018 Holland).
-Andererseits würde, trotz der Möglichkeit PDF Dateien anzuzeigen, eine Darstellung einer, mit Fotografien und bunten Grafiken gefüllte PDF Datei, ein eher unbequemes Leseerlebnis. Damit soll kein Defizit der Technologie genannt werden, sondern aufzeigen, dass ein e-Book Reader auf ein bestimmtes Textformat und Layout ausgerichtet ist und dadurch als Wiedergabemedium automatisch Einfluss auf den veröffentlichten Inhalt ausübt. 
+Andererseits würde, trotz der Möglichkeit PDF Dateien anzuzeigen, eine Darstellung einer, mit Fotografien und bunten Grafiken gefüllte PDF Datei, ein eher unbequemes Leseerlebnis vermuten. Damit soll kein Defizit der Technologie veräußert werden, sondern aufzeigen, dass ein e-Book Reader auf ein bestimmtes Textformat und Layout ausgerichtet ist und dadurch als Wiedergabemedium automatisch Einfluss auf den veröffentlichten Inhalt ausübt.
 
+Bei einer digitalen Publikation muss folglich darauf geachtet werden, dass die Medienkompatibilät des Inhalts gegeben ist, sofern sich nicht auf ein Ausgabemedium konzentriert wird und auch dann muss jenes entsprechend des Inhalts konfiguriert und gestaltet werden.
+Wie oben bereits erwähnt hat der Autor bei der Nutzung von Self-Publishing Plattformen wie BoD, keinen Einfluss auf die Shops an die das Werk verteilt wird. Die Plattform bietet zwar eine einfache Lösung zur Konvertrierung der Inhalte in verschiedene Dateiformate (EPUB, PDF, Mobi), jedoch wird dabei das jeweilige Endgerät, mit der entsprechenden Bildschirmtechnologie und -größe, nicht berücksichtig, da oftmals, zumindest EPUB, eine responsive Wiedergabe der Inhalte unterstützt, diese jedoch durch fehlende Einstellungen in der Datei schnell aus den Fugen gerät. Ein gutes Beispiel für eine unzureichende Konfiguration sowie Gestaltung des Layouts und Satzspiegels, ist das e-Book 'Don't make me think! Web & Mobile Usability: Das intuitive Web.' im EPUB Fortmat von Steve Krug. Es ist, im Bezug auf den Titel, ironischer Weise, überhaupt nicht benutzerfreundlich gestaltet. Das Format verwendet im Hauptteil einen durchgängig erzwungenen Blocksatz, sodass bei unterschiedlichen Ausgabeformaten, breite Lücken im Text entstehen. Zusätzlich verwendet er vereinzelt Kombinationen von roten und blauen Textabschnitten, die für das Auge, durch den seltsamen Kontrast einfach anstrengend zu betrachten sind. Zusätzlich verwendet Krug mehrfach Bilder und Screenshots in einer extrem geringen Auflösung, sodass kaum der Bildinhalt erschlossen werden kann (vgl. 2014 Krug).
+
+dass eine möglichst breite Masse an Lesern diese kompfortabel und unterhaltsam lesen kann, muss
 
 
 Vergleich von digitalen und hybriden Publikationsmedien
@@ -132,6 +137,10 @@ Aufgerufen am 02.03.19 https://webcache.googleusercontent.com/search?q=cache:qOo
 2013 International Digital Publishing Forum http://epubtest.org/ (aufgerufen 04.03.19)
 
 10.10.2018 Martin Holland: Tolino Shine 3: Neuer E-Reader nun etwas leichter und mit viel mehr Speicher https://www.heise.de/newsticker/meldung/Tolino-Shine-3-Neuer-E-Reader-nun-etwas-leichter-und-mit-viel-mehr-Speicher-4186632.html?hg=1&hgi=6&hgf=false (aufgerufen 04.03.19)
+
+
+2014 Steve Krug 'Don't make me think! Web & Mobile Usability: Das intuitive Web.', 3. Auflage (Leseprobe: https://www.ebook.de/de/advancedSearch?action=search&languageCode=&person=Steve%20Krug)
+
 
 
 
