@@ -109,6 +109,12 @@ Selbstpublizierende müssen sich also vorher entscheiden welche Services sie ben
 
 ### Gestalterischer und konzeptioneller Anspruch an den Selfpublisher
 
+Unabhängig davon, ob ein selbstpubliziertes Werk als digitaler und frei zuänglicher Text über eine Webseite oder einen Blog veröffentlicht wird, behält auch hier das Internet unzählige Möglichkeiten, diese Inhalte zu präsentieren, bereit. Dazu zählen auch zum kostenlosen oder kostenpflichtigen Download angebotene PDF Dateien als Publikationsmedium. Auch die PoD Methode kann über dieses Dateiformat, unabhängig vom kommerziellen Buchmarkt angeboten werden. Die Vielfältigkeit von Webdesign und Editorial Design aber auch die notwendigen Einstellung für den Druck bei PoD, verlangen auch hier der Autorin, dem Autor einiges ab.
+
+
+oder über eine Plattform in auf dem konventionellen Buchmarkt vertrieben wird, muss die Autorin, der Autor stehts 
+
+
 Vergleich von digitalen und hybriden Publikationsmedien
 ePub (passt sich automatisch an Gerätelayout an (responsive)
 PDF
@@ -134,10 +140,7 @@ Das verlagsunabhängige Publizieren im oder über das Internet stellt durch sein
 Auch wenn beispielsweise das Veröffentlichen über Blogs eine eher nicht kommerzielle Publikatiosmehtode darstellt muss auch hier die Autorin, der Autor nach einem gezielten Konzept arbeiten.
 
 
-Zusätzlich wird bei der Selbstpublikation überwiegend die Methode, der Veröffentlichung von Inhalten über e-Book Formate aber auch Print on Demand (PoD), verwendet. Dies hängt mit den geringen Lager- und Produktionskosten zusammen (Quelle).
-Aber auch DIY Broschüren .... (Quelle aus Text aus Seminar).
-
-Publikation findet nicht nur unter der Reglementierung von Internationalen Standard Buchnummern statt, sondern bezieht sich auch auf die jeweilige Intention durch die Veröffentlichung einen Raum für die Erschließung der Inhalte zu schaffen.
+Publikation findet nicht nur unter der Reglementierung von Internationalen Standardbuchnummern statt, sondern bezieht sich auch auf die jeweilige Intention durch die Veröffentlichung einen Raum für die Erschließung der Inhalte zu schaffen.
 
 
 ### Quellen:
