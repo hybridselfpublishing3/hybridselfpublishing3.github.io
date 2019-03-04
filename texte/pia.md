@@ -61,7 +61,7 @@ Unabhängig davon, ob ein selbstpubliziertes Werk als digitaler und frei zuängl
 
 Einen Blog oder eine Website zu betreiben erfordert, trotz Content Management Systeme (CMS) wie WordPress, Wissen über das Einrichten, Installieren und Konfogurieren von Webseiten und ihr Design. Bei Blogs spielen Elemente wie das Archiv, die Navigation durch die einzelnen Beiträge sowie die Filterung der Themen eine großte Rolle bei der Strukturierung. Dabei muss sich die Autorin, der Autor genau überlegen, wie die Inhalte vom Leser aufgefasst und eventuell weiterverarbeit werden sollen. Zusätzlich muss entschieden werden, welche Inhalte zu erst gesehen werden sollen und wie Reaktionen hervorgerufen werden können. Dazu kommen noch die gestalterischen Aspekte, die den Text interessant und benutzerfreundlich präsentieren. Auch wenn WordPress durch Themes, also vorgefertigte Seitenlayouts und Designs beinhaltet, muss auch darauf geachtet werden, dass man nicht im Einheitsbrei von Content Management Systemen verschwindet.
 
-Im Bezug auf kommerzielle Selbstpublikation von digitalen und hybriden Werken
+Im Bezug auf kommerzielle Selbstpublikation von digitalen und hybriden Werken über Medien wie e-Book, PDF und PoD muss auch die jeweilige Kompatibilität des Inhaltes mit dem Medium beachtet werden.
 
 
 Vergleich von digitalen und hybriden Publikationsmedien
