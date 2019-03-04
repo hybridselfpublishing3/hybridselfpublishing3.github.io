@@ -63,11 +63,10 @@ Einen Blog oder eine Website zu betreiben erfordert, trotz Content Management Sy
 
 Im Bezug auf kommerzielle Selbstpublikation von digitalen und hybriden Werken über Medien wie e-Book, PDF und PoD muss auch die jeweilige Kompatibilität des Inhaltes mit dem Medium beachtet werden.
 Im Vergleich zum Blog oder einer Webseite bieten auch EPUB-Dateien eine dynamische Darstellung, bei der sich der Inhalt an das jeweilige Ausgabegerät anpasst.
+EPUB (Electronic PUBlication) ist ein offener Standard für E-Books vom International Digital Publishing Forum (IDPF) und bildet ein Dateiformat, dass auf einer einfachen Struktur unter Einbindung von den gängigen Webstandard wie XML, XHTML und CSS basiert (vgl. 2019 EPUB Specifications and Projects).
 
-EPUB (Electronic PUBlication) ist ein offener Standard für E-Books vom International Digital Publishing Forum (IDPF) und ist ein Dateiformat, dass auf einer einfachen Struktur unter Einbindung von den gängigen Webstandard wie XML, XHTML und CSS basiert.
-
-(vgl. 2019 EPUB Specifications and Projects)
-
+Fast alle E-Book Reader, z. B. Tolino und Verwaltungssoftware für die Bearbeitung und Wiedergabe der Dateien wie Adobe Digital Editions und iBooks können das EPUB-Format interpretieren. (vgl. 2013 IDPF)
+Der e-Book Reader Tolino Shine 3 bietet mit einer Bildschirmdiagonalen von 15,24 cm eine vergleichbare Layoutgröße von einem Taschenbuch. Die Bildschirmtechnik basiert auf e-Ink und 
 
 
 
@@ -129,7 +128,7 @@ Aufgerufen am 02.03.19 https://webcache.googleusercontent.com/search?q=cache:qOo
 
 12.02.19 EPUB Specifications and Projects http://www.idpf.org/epub/dir/ (aufgerufen 04.03.19)
 
-
+ 2013 International Digital Publishing Forum http://epubtest.org/ (aufgerufen 04.03.19)
 
 
 
