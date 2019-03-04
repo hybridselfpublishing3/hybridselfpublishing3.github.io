@@ -1,63 +1,6 @@
 # Das Internet als Publikationsmedium
 
-## Untersuchung der gestalterischen Publikationsmethoden von digital/hybrid Publishing sowie den jeweiligen Einfluss auf den veröffentlichten Inhalt im Internet.
-
-*Pia-Maria Michnik*
-
-### 1. Gestalterische und technische Methoden, um Textinhalte im Internet digital und hybrid zu veröffentlichen 
-- Dateiformate (E-Book, PDF, Leseprobe, etc), Webformate (Blog-Einräge, Webseiten, Webdesign, Lesekomfort, Links, etc.)
-- https://link.springer.com/chapter/10.1007/978-3-8349-9409-7_1
-- https://books.google.de/books?hl=de&lr=&id=55ZLCgAAQBAJ&oi=fnd&pg=PP1&dq=definition+digitale+publikation&ots=Wuw0UT9iWP&sig=TSlKjQ4srFoHmT43lPKc2rGGGe8#v=onepage&q=definition%20digitale%20publikation&f=false
--https://edoc.hu-berlin.de/bitstream/handle/18452/9602/8.pdf?sequence=1
-    
-### 1.1 Möglichkeiten der jeweiligen Publikationsmethoden im Bezug auf die Zugänglichkeit und Verfügbarkeit
-- Einstufung der Veröffentlichungmethoden von stark eingeschränkt bis öffentlich zugänglich
-- Zirkulationsmöglichkeiten der digitalen/hybriden Publikationen (Weiterleiten/-schicken von Links und Dateien, Verbreitung üder social media im Vergleich zur Verbreitung von Printversionen)
-    
-### 1.2 Der Einfluss der Möglichkeit digitale Publikationen kontinuierlich zu verändern und weiter zu entwickeln.
-- Formen der Ergänzung von Publikationen: mehrere Auflagen, Updates, fortlaufende Weiterentwicklung (z.B. beim Blog)
-- Einfluss der Veränderungsmöglichkeiten auf die Qualität der Inhalte
-    
-### 2. Vorteile und Nutzen von digitalen/hybriden Publikationsmethoden
-- Benutzerfreundlichkeit (Auswahl digital oder print Version zu Lesen)
-- Einfluss auf das Internet als öffentlichen Raum
-
-### 3. Fazit
-
--------------------------------------------
-
-
-#### Inwieweit beeinflussen digitale/hybride Publikationsmethoden im Internet den veröffentlichten Inhalt?
-- Qualität des Inhaltes, Individualität
-- Ist das Internet als Publikationsmedium ein öffentlicher Raum?
-- Was machen Publikationen mit dem öffentlichen Raum Internet?
-
-#### Welche Möglichkeiten bieten dabei die jeweiligen Visualisierungsmethoden im Bezug auf die Zugänglichkeit und Verfügbarkeit?
-- Zirkulation = mehr Öffentlichkeit? (Ruhm und Ehre oder One-Hit-Wonder)
-- schnellerer Informationsfluss, Verbreitungsgeschwindigkeit
-- Technik, Webdesign, Lesequalität
-- Möglichkeit Links und Videos einzubinden
-
-#### Wie können digitale Publikationen, die eventuell verändert, weiterentwickelt oder sogar manipuliert werden können, authentisch sein?
-- Veränderbarkeit von Inhalten (teilt man noch den gleichen Raum, wenn unterschiedliche Versionen von Inhalten vorhanden sind?) 
-- Wie beeinflussen digitale/hybride Publikationsmethoden das Publikationsmedium Internet als öffentlichen Raum? (digital flexibel und analog statisch?)
-
-#### Warum sollte mann hybride Publikationsmethoden nutzen?
-- Benutzerfreundlichkeit: Dem Leser die Wahl überlassen ob z.B. am Bildschirm oder über gedruckte Version gelesen werden soll
-- schnellerer Zugang zu Inhalten (eventuell kostengünstiger?)
-
------------------------------------------
-
-##### Quellen:
-
-Internet und Demokratie: http://www.rainer-rilling.de/blog/wp-content/uploads/wsi.pdf
-
-
-------------------------------------------
-
-# Das Internet als Publikationsmedium
-
-## Untersuchung der gestalterischen Publikationsmethoden von digital/hybrid Publishing sowie den jeweiligen Einfluss auf den veröffentlichten Inhalt im Internet.
+## Untersuchung der konzeptionellen und gestalterischen Publikationsmethoden von digital und hybrid Publishing sowie den jeweiligen Einfluss auf den veröffentlichten Inhalt im Internet.
 
 *Pia-Maria Michnik*
 
@@ -70,7 +13,7 @@ Methoden für digitale und hybride Selbstpublikationen eröffnen dem Autor Freih
 
 Als Selfpublishing wird allgemein die Methode des verlagsunabhängigen Veröffentlichens bezeichnet, bei der die jeweilige Autorin oder der jeweilige Autor in Eigenregie die Produktion, den Vertrieb und das Marketing der eigenen Publikation, übernimmt. (Text aus dem Seminar als Quelle) 
 
-Im Bezug auf digitale Veröffentlichungen bietet das Internet eine Vielzahl von Methoden an, die sich nicht nur technisch sondern auch inhaltlich unterscheiden. Dabei kann es sich zum einen um unterschiedlich produzierte Videos auf YoutTube handeln sowie um einen Postcast oder Webblog. Aber auch die Verwendung von Self-Publishing Plattformen, die es Autorinnen und Autoren ermöglichen ihre Werke digital oder auch als Printversion zu veröffentlichen, bieten Selbstpublizierenden eine Möglichkeit mit ihren Werken an die Öffentlichkeit zu treten.
+Im Bezug auf digitale Veröffentlichungen bietet das Internet eine Vielzahl von Methoden an, die sich nicht nur technisch sondern auch inhaltlich unterscheiden. Dabei kann es sich zum einen um unterschiedlich produzierte Videos auf YoutTube handeln sowie um einen Postcast oder Webblog, die zu den nicht kommerziellen . Aber auch die Verwendung von Self-Publishing Plattformen, die es Autorinnen und Autoren ermöglichen ihre Werke digital oder auch als Printversion zu veröffentlichen, bieten Selbstpublizierenden eine Möglichkeit mit ihren Werken an die Öffentlichkeit zu treten.
 
 Blogs sind ein gutes Beispiel für ständig wachsene Inhalte durch die kontinuierliche Veröffentlichung von Beiträgen über aktuelle Themen. Inhalte werden meistens dokumentarisch aber auch analytisch und in Tagebuchform veröffentlicht.
 Die Inhalte können dabei alltägliche Themen behandeln oder beziehen sich auf spezielle Bereiche wie z. B. Ernährung, Sport oder Technik. Die Veröffentlichung der Texte, die als Beiträge oder Posts bezeichnet werden, folgen meistens einer täglichen oder wöchentlichen Sequenz, um eine kontinuierlichen Informationswiedergabe zu generieren.
@@ -97,7 +40,7 @@ Um also eine Publikation, mit allen Arbeitsschritten in Eigeninitiative und ohne
 In der Studie 'Europäische SelfPublishing-Studie 2016 Etablierung und Chancen. Self-Publisher im internationalen Vergleich' der Selfpublishing Plattform 'Books on Demand' wird dieser Prozess sehr deutlich beschrieben. BoD (2016: 6) erklärt zu Anfang: "Mit der Eröffnung des freien Zugangs zum Buchmarkt behalten Autoren im Self-Publishing die völlige inhaltliche, gestalterische
 und rechtliche Kontrolle über ihre Werke." Dies stellt zunächst, vergleichend zu den oben genannten Rahmenbedingungen und Voraussetzungen der einzelnen Arbeitsschritte bei der Selbstpublikation, eine passende Gegenüberstellung der Pflichten und dem entstehenden Mehrwert durch die zu leistende Eigenverantwortung dar.
 
-Neben BoD gibt es weitere Plattformen wie Xinxii, epubli oder Bookwire, die unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation anbieten. Je nach Anbieter schwanken die Produktionskosten und Honorare aber auch beim Service gibt es Unterschiede was Beratung und Unterstützung beim Marketing, um die gewünschten Leser erreichen zu können, angeht. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor wie z. B. Xinii, übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle auch für den möglichen Druck, angeboten (vgl. 2013: Matting).
+Neben BoD gibt es weitere Plattformen wie Xinxii, epubli oder Bookwire, die unter unterschiedlichen Geschäftmodellen und Methoden eine Möglichkeit zur Selbstpublikation anbieten. Der Physiker, Journalist und Self-Publishing-Autor Matthias Matting, hat auf seinem Blog selfpublisherbibel.de die gängigen Plattformen verglichen und bietet einen guten Einblick in die verschiedenen Geschäftsmodelle der Anbieter. Je nach Plattform schwanken die Produktionskosten und Honorare aber auch beim Service gibt es Unterschiede was Beratung und Unterstützung beim Marketing, um die gewünschten Leser erreichen zu können, angeht. Der e-Book Vertrieb über Shops wie Tolino können dabei nur von einem Distributor wie z. B. Xinii, übernommen werden. Zur Produktion der Veröffentlichung steht dem Autor oftmals spezielle Software der Plattform zur Verfügung und neben der Konvertierung in verschiedene Dateiformate, beispielsweise für verschiedene e-Book-Reader, wird eine Qualitätkontrolle auch für den möglichen Druck, angeboten (vgl. 2013: Matting).
 
 Solche Plattformen bieten überwiegend eine digitale Publikationsmöglichkeit über e-Book-Formate und PDF an. Anbieter wie Ruckzuckbuch, ePubli oder Tredition geben zusätzlich die Möglichkeit über Print on Demand (PoD), also wenn der eigentliche Buchdruck erst nach der Bestellung des Lesers erfolgt, eine hybride Veröffentlichung zu veranlassen.
 Die jeweilige Druckvorlage eines PoD erfolgt im PDF Format und erfordert diverse Einstellungen. In seinem Artikel 'Buch 2.0 Wie die Evolution der Digitaldrucktechnik den Buchmarkt revolutioniert' erklärt Tim Geber die technischen Einstellungen und erläutertn, dass (Gerber 2008) "[s]ie [muss] als ISO-konforme PDF-Datei mit zwingend einzuhaltenden Parametern hinsichtlich Seitenformat und -umfang, Rändern, Auflösung, einzubettenden Schriftarten und dergleichen mehr vom Autor geliefert werden [muss]" und weist direkt auf dabei unterstützende Software der Plattform BoD hin.
@@ -111,8 +54,9 @@ Selbstpublizierende müssen sich also vorher bewusst entscheiden welche Services
 
 Unabhängig davon, ob ein selbstpubliziertes Werk als digitaler und frei zuänglicher Text über eine Webseite oder einen Blog veröffentlicht wird, hält auch hier das Internet unzählige Möglichkeiten, diese Inhalte zu präsentieren, bereit. Dazu zählen auch zum kostenlosen oder kostenpflichtigen Download angebotene PDF Dateien als Publikationsmedium. Auch die PoD Methode kann über dieses Dateiformat, angeboten werden. Die Vielfältigkeit von Webdesign und Editorial Design aber auch die notwendigen Einstellungen für den Druck bei PoD Dateien, verlangen klare konzeptionelle und gestalterische Entscheidungen.
 
+Einen Blog oder eine Website zu betreiben erfordert, trotz Content Management Systeme (CMS) wie WordPress, Wissen über das Einrichten, Installieren und Konfogurieren von Webseiten und ihr Design. Bei Blogs spielen Elemente wie das Archiv, die Navigation durch die einzelnen Beiträge sowie die Filterung der Themen eine großte Rolle bei der Strukturierung. Dabei muss sich die Autorin, der Autor genau überlegen, wie die Inhalte vom Leser aufgefasst und eventuell weiterverarbeit werden sollen. Zusätzlich muss entschieden werden, welche Inhalte zu erst gesehen werden sollen und wie Reaktionen hervorgerufen werden können. Dazu kommen noch die gestalterischen Aspekte, die den Text interessant und benutzerfreundlich präsentieren. Auch wenn WordPress durch Themes, also vorgefertigte Seitenlayouts und Designs beinhaltet, muss auch darauf geachtet werden, dass man nicht im Einheitsbrei von Content Management Systemen verschwindet.
 
-oder über eine Plattform in auf dem konventionellen Buchmarkt vertrieben wird, muss die Autorin, der Autor stehts 
+Im Bezug auf kommerzielle Selbstpublikation von digitalen und hybriden Werken
 
 
 Vergleich von digitalen und hybriden Publikationsmedien
@@ -143,6 +87,9 @@ Auch wenn beispielsweise das Veröffentlichen über Blogs eine eher nicht kommer
 Publikation findet nicht nur unter der Reglementierung von Internationalen Standardbuchnummern statt, sondern bezieht sich auch auf die jeweilige Intention durch die Veröffentlichung einen Raum für die Erschließung der Inhalte zu schaffen.
 
 
+Als Self-Publischer bin ich vöölig unabhängig (Matting 2018): "Falsch. Ich kann zwar frei entscheiden, wie ich mein Buch fertig stelle. Aber ich bin doch auf viele Menschen und Firmen angewiesen, die unterschiedlich zuverlässig arbeiten, mit denen ich Verträge schließen muss und die ihre Konditionen zu meinen Ungunsten ändern können."
+
+
 ### Quellen:
 
 
@@ -159,6 +106,7 @@ BoD (2016: 3): "Das Ergebnis ist eine Demokratisierung des Verlagsgeschäfts, di
 
 
 2013 Matting: http://www.selfpublisherbibel.de/wer-druckt-mein-ebook-die-wichtigsten-self-publishing-anbieter-im-vergleich/
+2018 Matting: http://www.selfpublisherbibel.de/die-haeufigsten-irrtuemer-im-selfpublishing-veroeffentlichender-autoren/
 
 21.01.2008 Tim Gerber: Buch 2.0 – wie die Evolution der Digitaldrucktechnik den Buchmarkt revolutioniert.(aufgerufen 04.03.19)
 https://www.heise.de/ct/artikel/Buch-2-0-291410.html
