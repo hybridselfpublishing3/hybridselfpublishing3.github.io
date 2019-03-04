@@ -88,7 +88,7 @@ Abschließend kann festgehalten werden, dass der Selbstpublizierende nicht einfa
 
 
 
--
+-------------------------------------------------------
 
 ### Quellen:
 
