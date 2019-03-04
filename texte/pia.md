@@ -88,6 +88,8 @@ Abschließend kann festgehalten werden, dass der Selbstpublizierende nicht einfa
 
 
 
+-
+
 ### Quellen:
 
 Bajohr, Hannes 2016: 'Infradünne Plattformen - Print-on-Demand als Strategie und Genre' [online] https://www.academia.edu/19784562/Infrad%C3%BCnne_Plattformen._Print-on-Demand_als_Strategie_und_Genre [aufgerufen am 04.03.19]
