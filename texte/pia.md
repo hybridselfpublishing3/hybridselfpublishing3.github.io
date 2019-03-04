@@ -66,7 +66,8 @@ Im Vergleich zum Blog oder einer Webseite bieten auch EPUB-Dateien eine dynamisc
 EPUB (Electronic PUBlication) ist ein offener Standard für E-Books vom International Digital Publishing Forum (IDPF) und bildet ein Dateiformat, dass auf einer einfachen Struktur unter Einbindung von den gängigen Webstandard wie XML, XHTML und CSS basiert (vgl. 2019 EPUB Specifications and Projects).
 
 Fast alle E-Book Reader, z. B. Tolino und Verwaltungssoftware für die Bearbeitung und Wiedergabe der Dateien wie Adobe Digital Editions und iBooks können das EPUB-Format interpretieren. (vgl. 2013 IDPF)
-Der e-Book Reader Tolino Shine 3 bietet mit einer Bildschirmdiagonalen von 15,24 cm eine vergleichbare Layoutgröße von einem Taschenbuch. Die Bildschirmtechnik basiert auf e-Ink und 
+Der e-Book Reader Tolino Shine 3 bietet mit einer Bildschirmdiagonalen von 15,24 cm eine vergleichbare Layoutgröße von einem Taschenbuch. Die Bildschirmtechnik basiert auf e-Ink und stellt somit kaum einen Stromverbrauch im Betrieb dar, jedoch können daher der Text und eventuell eingebundene Bilder in nur 16 Graustufen angezeigt werden. Der Lesekomfort ist einerseits durch die, an die Tageszeit angepasste Farbtemperatur, die hohe Kontrastfähigkeit der Bildschirmtechnologie und der handlichen Größe, sehr hoch und ist daher für das Lesen von langen Fließtexten, wie in Romanen gut geeignet (vgl. 2018 Holland).
+Andererseits würde, trotz der Möglichkeit PDF Dateien anzuzeigen, eine Darstellung einer, mit Fotografien und bunten Grafiken gefüllte PDF Datei, ein eher unbequemes Leseerlebnis. Damit soll kein Defizit der Technologie genannt werden, sondern aufzeigen, dass ein e-Book Reader auf ein bestimmtes Textformat und Layout ausgerichtet ist und dadurch als Wiedergabemedium automatisch Einfluss auf den veröffentlichten Inhalt ausübt. 
 
 
 
@@ -128,8 +129,9 @@ Aufgerufen am 02.03.19 https://webcache.googleusercontent.com/search?q=cache:qOo
 
 12.02.19 EPUB Specifications and Projects http://www.idpf.org/epub/dir/ (aufgerufen 04.03.19)
 
- 2013 International Digital Publishing Forum http://epubtest.org/ (aufgerufen 04.03.19)
+2013 International Digital Publishing Forum http://epubtest.org/ (aufgerufen 04.03.19)
 
+10.10.2018 Martin Holland: Tolino Shine 3: Neuer E-Reader nun etwas leichter und mit viel mehr Speicher https://www.heise.de/newsticker/meldung/Tolino-Shine-3-Neuer-E-Reader-nun-etwas-leichter-und-mit-viel-mehr-Speicher-4186632.html?hg=1&hgi=6&hgf=false (aufgerufen 04.03.19)
 
 
 
