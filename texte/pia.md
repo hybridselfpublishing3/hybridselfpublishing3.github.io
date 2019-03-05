@@ -55,7 +55,7 @@ Die Inanspruchnahme der Services solcher Plattformen beinhaltet zwar viele techn
 Matting kommentiert die vermeintliche Unabhängigkeit von Self-Publisher folgendermaßen (Matting 2018): *"Ich kann zwar frei entscheiden, wie ich mein Buch fertig stelle. Aber ich bin doch auf viele Menschen und Firmen angewiesen, die unterschiedlich zuverlässig arbeiten, mit denen ich Verträge schließen muss und die ihre Konditionen zu meinen Ungunsten ändern können."* Selbstpublizierende müssen sich also vorher bewusst entscheiden, welche Services sie benötigen und festlegen, inwieweit sie Teile ihres Mitspracherechts und der Kontrolle, beispielsweise über den Vertrieb und den Gewinn, gegen die Unterstützung durch Anbieter abgeben möchten.
 
 
-### 3. Gestalterischer und konzeptioneller Anspruch
+### 3. Technischer und konzeptioneller Anspruch
 
 Unabhängig davon, ob ein selbst publiziertes Werk als digitaler und frei zugänglicher Text über eine Webseite oder einen Blog veröffentlicht wird, hält auch hier das Internet unzählige Möglichkeiten, diese Inhalte zu präsentieren, bereit. Dazu zählen auch zum kostenlosen oder kostenpflichtigen Download angebotene PDF Dateien als Publikationsmedium. Auch die PoD Methode kann über dieses Dateiformat, angeboten werden. Die Vielfältigkeit von Webdesign und Editorial Design aber auch die notwendigen Einstellungen für den Druck bei PoD Dateien, verlangen klare konzeptionelle, gestalterische und technische Entscheidungen.
 
